@@ -1,0 +1,37 @@
+{% extends "xhtml.html" %}
+{% block title %}My Test Page{% endblock %}
+{% block meta %}
+    <meta property="og:site_name" content="{{ fb_site_name }}"/>
+    <meta property="fb:app_id" content="{{ fb_app_id }}"/>
+    <meta property="og:url" content="{{ fb_url }}"/>
+    <meta property="og:type" content="company"/>
+    <meta property="og:title" content="My Test Page"/>
+    <meta property="og:description" content="Test page for checking a live url"/>
+    <meta property="og:image" content="http://www.audi.co.uk/content/dam/audi/production/Home/Homepage_062011/Le-Mans-Vic-2.png"/>
+    <meta property="og:video" content="http://www.audi.co.uk/content/dam/audi/production/Home/HomePage06042011/audi_a6_homepage5.swf" />
+    <meta property="og:video:height" content="970" />
+    <meta property="og:video:width" content="410" />
+    <meta property="og:video:type" content="application/x-shockwave-flash" />
+{% endblock %}
+{% block content %}
+<body>
+    <h1><img src="/static/img/logo-audi.gif" alt="Audi"/></h1>
+    <div id="fb-root"></div>
+    <script src="http://connect.facebook.net/en_US/all.js#appId={{ fb_app_id }}&amp;xfbml=1"></script>
+    <fb:like send="false" show_faces="false" layout="button_count"></fb:like>
+    <script>
+        FB.Event.subscribe('edge.create',function() {
+            console.log('edge.create',arguments);
+        });
+        FB.Event.subscribe('edge.remove',function() {
+            console.log('edge.remove',arguments);
+        });
+        FB.Event.subscribe('comment.create',function() {
+            console.log('comment.create',arguments);
+        });
+        FB.Event.subscribe('comment.remove',function() {
+            console.log('comment.remove',arguments);
+        });
+    </script>
+</body>
+{% endblock %}
