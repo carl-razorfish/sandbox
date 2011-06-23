@@ -1,0 +1,21 @@
+{% extends "html5.html" %}
+{% block title %}{{ name }}{% endblock %}
+{% block meta %}
+<link rel="stylesheet" href="/static/css/mashup.css">
+{% endblock %}
+{% block content %}
+<body>
+    <header>
+        <h1>{{ name }}</h1>
+    </header>
+    <article id="intro">
+    </article>
+    <article id="weather" data-param="{{ bbc }}"></article>
+    <article id="news" data-param="{{ guardian }}"></article>
+    <article id="flights">
+    </article>
+    <article id="hotels">
+    </article>
+    <script src="/static/js/mashup.js"></script>
+</body>
+{% endblock %}

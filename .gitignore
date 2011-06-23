@@ -1,0 +1,5 @@
+static/css
+static/js
+.sass-cache
+*.swp
+*.DS_Store
