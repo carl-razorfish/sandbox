@@ -5,17 +5,32 @@
 {% endblock %}
 {% block content %}
 <body>
-    <header>
-        <h1>{{ name }}</h1>
-    </header>
-    <article id="intro">
-    </article>
-    <article id="weather" data-feed="{{ weather }}"></article>
-    <article id="news" data-feed="{{ news }}"></article>
-    <article id="flights">
-    </article>
-    <article id="hotels">
-    </article>
+	<div class="wrapper">
+		<div class="banner">
+	    	<img src="/static/img/site_master_top_logo.gif" alt="last minute" />
+	    </div>
+	    <div class="nav">
+	    	nav
+	    </div>
+	    <div class="content">
+		
+			<header>
+		        <h1>{{ name }}</h1>
+		    </header>
+		    <article id="intro">
+		    </article>
+		    <article id="weather" data-feed="{{ weather }}"></article>
+		    <article id="news" data-feed="{{ news }}"></article>
+		    <article id="flights">
+		    </article>
+		    <article id="hotels">
+		    </article>
+		
+		</div>	
+		<div class="footer">
+	    	2011&copy;	
+	    </div>
+	</div>
     <script src="/static/js/mashup.js"></script>
 </body>
 {% endblock %}
