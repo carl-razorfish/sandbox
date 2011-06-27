@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rest-result executionTime="3953" statusCode="200" executionId="10937b4d00000001">
+	<output-objects>
+		<object name="last_minute_hotel_results">
+			<attribute type="text" name="Name">Belvedere Hotel</attribute>
+			<attribute type="text" name="Address">319 WEST 48TH STREET, New York |</attribute>
+			<attribute type="text" name="Phone">0844 873 8582</attribute>
+			<attribute type="number" name="Price">204.6</attribute>
+		</object>
+		<object name="last_minute_hotel_results">
+			<attribute type="text" name="Name">Morgans Hotel</attribute>
+			<attribute type="text" name="Address">237 MADISON AVENUE, New York |</attribute>
+			<attribute type="text" name="Phone">0844 873 8582</attribute>
+			<attribute type="number" name="Price">325.14</attribute>
+		</object>
+		<object name="last_minute_hotel_results">
+			<attribute type="text" name="Name">CASSA HOTEL AND RESIDENCES</attribute>
+			<attribute type="text" name="Address">70 West 45th St, New York |</attribute>
+			<attribute type="text" name="Phone">0844 873 8582</attribute>
+			<attribute type="number" name="Price">238.82</attribute>
+		</object>
+		<object name="last_minute_hotel_results">
+			<attribute type="text" name="Name">Warwick New York Hotel</attribute>
+			<attribute type="text" name="Address">65 WEST 54TH STREET AT AVENUE OF THE AMERICAS, New York |</attribute>
+			<attribute type="text" name="Phone">0844 873 8582</attribute>
+			<attribute type="number" name="Price">279.09</attribute>
+		</object>
+		<object name="last_minute_hotel_results">
+			<attribute type="text" name="Name">Hotel Mela</attribute>
+			<attribute type="text" name="Address">120 West 44th St, New York |</attribute>
+			<attribute type="text" name="Phone">0844 873 8582</attribute>
+			<attribute type="number" name="Price">481.69</attribute>
+		</object>
+		<object name="last_minute_hotel_results">
+			<attribute type="text" name="Name">The Chatwal, a Luxury Collection Hotel</attribute>
+			<attribute type="text" name="Address">130 WEST 44TH STREET, NEW YORK |</attribute>
+			<attribute type="text" name="Phone">0844 873 8582</attribute>
+			<attribute type="number" name="Price">491.22</attribute>
+		</object>
+		<object name="last_minute_hotel_results">
+			<attribute type="text" name="Name">THE EMPIRE HOTEL</attribute>
+			<attribute type="text" name="Address">44 West 63rd St., New York |</attribute>
+			<attribute type="text" name="Phone">0844 873 8582</attribute>
+			<attribute type="number" name="Price">273.67</attribute>
+		</object>
+		<object name="last_minute_hotel_results">
+			<attribute type="text" name="Name">Belnord Hotel</attribute>
+			<attribute type="text" name="Address">209 W 87 St, New York |</attribute>
+			<attribute type="text" name="Phone">0844 873 8582</attribute>
+			<attribute type="number" name="Price">195.68</attribute>
+		</object>
+		<object name="last_minute_hotel_results">
+			<attribute type="text" name="Name">The Carlyle A Rosewood Hotel</attribute>
+			<attribute type="text" name="Address">35 EAST 76TH ST, New York |</attribute>
+			<attribute type="text" name="Phone">0844 873 8582</attribute>
+			<attribute type="number" name="Price">404.97</attribute>
+		</object>
+		<object name="last_minute_hotel_results">
+			<attribute type="text" name="Name">The Desmond Tutu Center</attribute>
+			<attribute type="text" name="Address">180 Tenth Avenue, New York |</attribute>
+			<attribute type="text" name="Phone">0844 873 8582</attribute>
+			<attribute type="number" name="Price">154.44</attribute>
+		</object>
+		<object name="last_minute_hotel_results">
+			<attribute type="text" name="Name">Room-Mate Grace</attribute>
+			<attribute type="text" name="Address">125 WEST 45 STREET, NEW YORK |</attribute>
+			<attribute type="text" name="Phone">0844 873 8582</attribute>
+			<attribute type="number" name="Price">189.28</attribute>
+		</object>
+		<object name="last_minute_hotel_results">
+			<attribute type="text" name="Name">Broadway Plaza Hotel</attribute>
+			<attribute type="text" name="Address">1155 BROADWAY, New York |</attribute>
+			<attribute type="text" name="Phone">0844 873 8582</attribute>
+			<attribute type="number" name="Price">181.27</attribute>
+		</object>
+		<object name="last_minute_hotel_results">
+			<attribute type="text" name="Name">Chambers</attribute>
+			<attribute type="text" name="Address">15 W 56TH STREET, New York |</attribute>
+			<attribute type="text" name="Phone">0844 873 8582</attribute>
+			<attribute type="number" name="Price">307.87</attribute>
+		</object>
+		<object name="last_minute_hotel_results">
+			<attribute type="text" name="Name">Metro Apartments</attribute>
+			<attribute type="text" name="Address">440 West 41st Street, New York |</attribute>
+			<attribute type="text" name="Phone">0844 873 8582</attribute>
+			<attribute type="number" name="Price">178.49</attribute>
+		</object>
+		<object name="last_minute_hotel_results">
+			<attribute type="text" name="Name">BEST WESTERN PLUS Hospitality House</attribute>
+			<attribute type="text" name="Address">145 E 49TH STREET, New York |</attribute>
+			<attribute type="text" name="Phone">0844 873 8582</attribute>
+			<attribute type="number" name="Price">263.62</attribute>
+		</object>
+	</output-objects>
+</rest-result>

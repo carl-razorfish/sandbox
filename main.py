@@ -10,9 +10,18 @@ feeds = {
     'yahoo'    : 'http://query.yahooapis.com/v1/public/yql?format=json&q='
 }
 
+def getRawXML():
+	return 'Hi there from the API!'
+	
+class RawData(webapp.RequestHandler):
+	def get(self):
+		raw_data = getRawXML()
+		self.response.out.write(raw_data)
+
 class Newyork(webapp.RequestHandler):
     def get(self):
         path = os.path.join(os.path.dirname(__file__),'templates/mashup.html')
+
         vars = {
             'name'     : 'New York',
             'bbc'      : '101',
@@ -22,6 +31,7 @@ class Newyork(webapp.RequestHandler):
         self.response.out.write(template.render(path,vars))
 
 application = webapp.WSGIApplication([
+		('/newyork/xml', RawData),
         ('/',Newyork)
     ],debug=True)
 

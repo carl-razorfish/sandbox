@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rest-result executionTime="2807" statusCode="200" executionId="10937b4d0000000e">
+	<output-objects>
+		<object name="last_minute_city_break_results">
+			<attribute type="text" name="Total">&amp;#163;1483.24</attribute>
+			<attribute type="text" name="OutboundAirports">London Heathrow, Uk (LHR) - John F Kennedy Apt (JFK)</attribute>
+			<attribute type="text" name="InboundAirports">John F Kennedy Apt (JFK) - London Heathrow, Uk (LHR)</attribute>
+			<attribute type="text" name="OutboundTimes">Departs: Fri 04 May 12 10:05 Arrives: Fri 04 May 12 13:05</attribute>
+			<attribute type="text" name="InboundTimes">Departs: Sun 06 May 12 18:25 Arrives: Mon 07 May 12 07:05</attribute>
+			<attribute type="text" name="OutboundAirline">KLM ROYAL DUTCH AIRLINES logo</attribute>
+			<attribute type="text" name="InboundAirline">DELTA AIR LINES logo</attribute>
+			<attribute type="text" name="HotelName">Hotel Mela</attribute>
+			<attribute type="text" name="dbKey">ce3a874b21410ab88328fa2da4f9121abb2c8</attribute>
+			<attribute type="text" name="HotelRating">4 star</attribute>
+			<attribute type="text" name="HotelRequirements">1 x Executive King or Queen for 2 nights</attribute>
+		</object>
+	</output-objects>
+</rest-result>
