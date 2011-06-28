@@ -32,9 +32,10 @@ def parseNewYork():
             text = hotel.text
             name = hotel.attrib.get('name')
             h[name] = text
-        logging.info(h)
-        logging.info('-')  
         
+        results.append(h)
+    
+    logging.info(results)    
     return results
 
 def all(element, nodename):
