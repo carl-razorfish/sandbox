@@ -4,6 +4,8 @@ import codecs
 import logging
 import xml.etree.ElementTree as et
 
+from django.utils import simplejson as json
+
 from google.appengine.ext import webapp
 from google.appengine.ext.webapp import template
 from google.appengine.ext.webapp.util import run_wsgi_app
@@ -34,8 +36,7 @@ def parseNewYork():
             h[name] = text
         
         results.append(h)
-    
-    logging.info(results)    
+        
     return results
 
 def all(element, nodename):
@@ -49,6 +50,12 @@ class RawData(webapp.RequestHandler):
         raw_data = getRawXML()
         self.response.out.write(raw_data)
 
+class JSONData(webapp.RequestHandler):
+    """docstring for JSONData"""
+    def get(self):
+        ny = parseNewYork()
+        self.response.out.write(json.dumps(ny))
+
 class Newyork(webapp.RequestHandler):
     def get(self):
         
@@ -61,11 +68,13 @@ class Newyork(webapp.RequestHandler):
             'bbc'      : '101',
             'news'     : feeds['guardian']+'travel/newyork',
             'weather'  : feeds['yahoo']+'select * from weather.forecast where location=10118',
+            'hotels'   : ny 
         }
         self.response.out.write(template.render(path,vars))
 
 application = webapp.WSGIApplication([
         ('/newyork/xml', RawData),
+        ('/newyork/json', JSONData),
         ('/newyork',Newyork),
         ('/',Newyork)
     ],debug=True)

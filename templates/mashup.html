@@ -17,6 +17,12 @@
 			<header>
 		        <h1>{{ name }}</h1>
 		    </header>
+			{% for hotel in hotels %}
+				<p>{{hotel.Name}}</p>
+				<p>{{hotel.Address}}</p>
+				<p>{{hotel.Phone}}</p>
+				<p>${{hotel.Price}}</p>
+			{% endfor %}
 		    <article id="intro">
 		    </article>
 		    <article id="weather" data-feed="{{ weather }}"></article>
