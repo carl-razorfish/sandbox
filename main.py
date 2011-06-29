@@ -39,14 +39,14 @@ def getJSON(request):
 def parseXML(request):
     results = []
     tree = et.parse(kapowAPI(request))
-    for hotels in all(tree, 'object'):
-        h = {}
-        for hotel in all(hotels, 'attribute'):
-            text = hotel.text
-            name = hotel.attrib.get('name')
-            h[name] = text
+    for items in all(tree, 'object'):
+        i = {}
+        for item in all(items, 'attribute'):
+            text = item.text
+            name = item.attrib.get('name')
+            i[name] = text
 
-        results.append(h)
+        results.append(i)
     return results
 
 def split_path(path):
