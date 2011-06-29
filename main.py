@@ -19,6 +19,7 @@ feeds = {
 
 ny_hotels_feed = 'data/xml/LM-hotels.xml'
 ny_city_breaks_feed = 'data/xml/LM-city-breaks.xml'
+ny_flights_feed = 'data/xml/lastminute.xml'
 
 ny_mashup = {
     'name'     : 'New York',
@@ -39,14 +40,14 @@ def getJSON(request):
 def parseXML(request):
     results = []
     tree = et.parse(kapowAPI(request))
-    for hotels in all(tree, 'object'):
-        h = {}
-        for hotel in all(hotels, 'attribute'):
-            text = hotel.text
-            name = hotel.attrib.get('name')
-            h[name] = text
+    for items in all(tree, 'object'):
+        i = {}
+        for item in all(items, 'attribute'):
+            text = item.text
+            name = item.attrib.get('name')
+            i[name] = text
 
-        results.append(h)
+        results.append(i)
     return results
 
 def split_path(path):
@@ -81,11 +82,16 @@ class Mashup(webapp.RequestHandler):
             mashup = ny_mashup
             hotels_feed = ny_hotels_feed
             city_breaks_feed = ny_city_breaks_feed
+            flights_feed = ny_flights_feed
+        
+        f = parseXML(flights_feed)
         
         mashup['hotels'] = parseXML(hotels_feed);
         mashup['city_break'] = parseXML(city_breaks_feed)[0]
+        mashup['cheapest_flight'] = f[-1]
+        mashup['all_flights'] = f[0:-2]
         
-        logging.info(mashup['city_break'])
+        logging.info(mashup['all_flights'])
         
         path = os.path.join(os.path.dirname(__file__),'templates/mashup.html')
         self.response.out.write(template.render(path, ny_mashup))
