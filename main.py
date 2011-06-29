@@ -19,6 +19,7 @@ feeds = {
 
 ny_hotels_feed = 'data/xml/LM-hotels.xml'
 ny_city_breaks_feed = 'data/xml/LM-city-breaks.xml'
+ny_flights = 'data/xml/LM-flights.xml'
 
 ny_mashup = {
     'name'     : 'New York',
