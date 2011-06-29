@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+import re
 import os
 import codecs
 import logging
@@ -16,67 +17,84 @@ feeds = {
     'yahoo'    : 'http://query.yahooapis.com/v1/public/yql?format=json&q='
 }
 
-api_url = 'data/xml/LM-hotels.xml'
+ny_hotels_feed = 'data/xml/LM-hotels.xml'
+ny_city_breaks_feed = 'data/xml/LM-city-breaks.xml'
 
-def kapowAPI():
-    return codecs.open(os.path.join(os.path.dirname(__file__), api_url))
+ny_mashup = {
+    'name'     : 'New York',
+    'bbc'      : '101',
+    'news'     : feeds['guardian']+'travel/newyork',
+    'weather'  : feeds['yahoo']+'select * from weather.forecast where location=10118'
+}
 
-def getRawXML():
-    return kapowAPI().read()
+def kapowAPI(request):
+    return codecs.open(os.path.join(os.path.dirname(__file__), request))
 
-def parseNewYork():
+def getXML(request):
+    return kapowAPI(request).read()
+
+def getJSON(request):
+    return json.dumps(parseXML(request))
+
+def parseXML(request):
     results = []
-    
-    tree = et.parse(kapowAPI())
+    tree = et.parse(kapowAPI(request))
     for hotels in all(tree, 'object'):
         h = {}
         for hotel in all(hotels, 'attribute'):
             text = hotel.text
             name = hotel.attrib.get('name')
             h[name] = text
-        
+
         results.append(h)
-        
     return results
 
+def split_path(path):
+    p = re.compile('\W+')
+    return p.split(path)
+
 def all(element, nodename):
-    """return iterable of nodes by nodename"""
     path = './/%s' % nodename
     return element.findall(path)
- 
-    
-class RawData(webapp.RequestHandler):
-    def get(self):
-        raw_data = getRawXML()
-        self.response.out.write(raw_data)
 
-class JSONData(webapp.RequestHandler):
-    """docstring for JSONData"""
-    def get(self):
-        ny = parseNewYork()
-        self.response.out.write(json.dumps(ny))
-
-class Newyork(webapp.RequestHandler):
+class RestAPI(webapp.RequestHandler):
     def get(self):
         
-        ny = parseNewYork()
+        r = split_path(self.request.path)
+         
+        if r[1] == 'newyork':
+            feed = ny_hotels_feed
+        
+        if r[2] == 'json':
+            out = getJSON(feed)
+        elif r[2] == 'xml':
+            out = getXML(feed)
+        
+        self.response.out.write(out)
+
+class Mashup(webapp.RequestHandler):
+    def get(self):
+        
+        r = split_path(self.request.path)
+        
+        if r[1] == '' or r[1] == 'newyork':
+            mashup = ny_mashup
+            hotels_feed = ny_hotels_feed
+            city_breaks_feed = ny_city_breaks_feed
+        
+        mashup['hotels'] = parseXML(hotels_feed);
+        mashup['city_break'] = parseXML(city_breaks_feed)[0]
+        
+        logging.info(mashup['city_break'])
         
         path = os.path.join(os.path.dirname(__file__),'templates/mashup.html')
-
-        vars = {
-            'name'     : 'New York',
-            'bbc'      : '101',
-            'news'     : feeds['guardian']+'travel/newyork',
-            'weather'  : feeds['yahoo']+'select * from weather.forecast where location=10118',
-            'hotels'   : ny 
-        }
-        self.response.out.write(template.render(path,vars))
+        self.response.out.write(template.render(path, ny_mashup))
 
 application = webapp.WSGIApplication([
-        ('/newyork/xml', RawData),
-        ('/newyork/json', JSONData),
-        ('/newyork',Newyork),
-        ('/',Newyork)
+        ('/newyork/xml', RestAPI),
+        ('/newyork/json', RestAPI),
+        ('/newyork',Mashup),
+        ('/',Mashup)
     ],debug=True)
 
 if __name__ == '__main__':
