@@ -4,33 +4,79 @@
 <link rel="stylesheet" href="/static/css/mashup.css">
 {% endblock %}
 {% block content %}
+<link rel="shortcut icon" type="image/x-icon" href="http://cdn.lastminute.com/site/favicon.ico?skin=engb.lastminute.com" />
 <body>
 	<div class="wrapper">
 		<div class="banner">
-	    	<img src="/static/img/site_master_top_logo.gif" alt="last minute" />
+	    	<div class="ani"><img src="/static/img/site_master_top_logo.gif" alt="last minute" /></div>
 	    </div>
 	    <div class="nav">
-	    	lastminute.com Dynamic Data Collection Example
+	    	<span class="white">lastminute.com</span> Dynamic Data Collection Example
 	    </div>
 	    <div class="content">
 		
 			<header>
-		        <h1>{{ name }}</h1>
+		        <h1>Welcome to {{ name }}</h1>
 		    </header>
-			{% for hotel in hotels %}
-				<p>{{hotel.Name}}</p>
-				<p>{{hotel.Address}}</p>
-				<p>{{hotel.Phone}}</p>
-				<p>${{hotel.Price}}</p>
-			{% endfor %}
-		    <article id="intro">
+			<article class="intro"><p>We have collected some information which may be useful to you if you are thinking of visiting {{ name }}.</p></article>
+			<article class="city-break">
+				
+				<h2>Top city break</h2>
+				<dl>
+					<dt>Name:<dt>
+					<dd>{{flight.Name}}<dd>
+					<dt>Departure:<dt>
+					<dd>{{flight.departure}}<dd>
+					<dt>Destination:<dt>
+					<dd>{{flight.desination}}<dd>
+					<dt>Price:<dt>
+					<dd>&#163;{{flight.Price}}<dd>
+					<dt><img src="../static/img/newyork.jpg" alt="{{ name }}" width="183" height="83" class="{{ name }}" style="float:left;"><dt>
+					<dd><dd>
+				</dl>
+				
+				
+				<!--
+				<img src="../static/img/paris.jpg" alt="{{ name }}" width="183" height="83" class="{{ name }}">
+				<img src="../static/img/amsterdam.jpg" alt="{{ name }}" width="183" height="83" class="{{ name }}">
+				-->
+			</article>
+			<article class="flights">
+				<h2>Top flights to {{ name }}</h2>
+					{% for flight in flights %}
+					<dl>
+						<dt>Name:<dt>
+						<dd>{{flight.Name}}<dd>
+						<dt>Departure:<dt>
+						<dd>{{flight.departure}}<dd>
+						<dt>Destination:<dt>
+						<dd>{{flight.desination}}<dd>
+						<dt>Price:<dt>
+						<dd>&#163;{{flight.Price}}<dd>
+					</dl>
+					{% endfor %}
+			</article>
+			<article class="hotels">
+				<h2>Best deals for Hotels in {{ name }}</h2>
+				{% for hotel in hotels %}
+				<dl>
+					<dt>Name:<dt>
+					<dd>{{hotel.Name}}<dd>
+					<dt>Address:<dt>
+					<dd>{{hotel.Address}}<dd>
+					<dt>Phone:<dt>
+					<dd>{{hotel.Phone}}<dd>
+					<dt>Price:<dt>
+					<dd>&#163;{{hotel.Price}}<dd>
+				</dl>
+				{% endfor %}
 		    </article>
-		    <article id="weather" data-feed="{{ weather }}"></article>
-		    <article id="news" data-feed="{{ news }}"></article>
-		    <article id="flights">
+		    <article class="info">
+				<h2>Useful info about {{ name }}</h2>
+		    	<article id="weather" data-feed="{{ weather }}"></article>
+		    	<article id="news" data-feed="{{ news }}"></article>
 		    </article>
-		    <article id="hotels">
-		    </article>
+		    
 		
 		</div>	
 		<div class="footer">
