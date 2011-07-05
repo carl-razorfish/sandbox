@@ -1,0 +1,16 @@
+  <?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+ <error statusCode="400" executionId="1756e2da0000001e">
+ <input-objects>
+ <object name="last_minute_hotel_city_desination">
+  <attribute type="text" name="city">parisxyhnls</attribute> 
+  </object>
+  </input-objects>
+ <exception>
+  <errorType>Robot</errorType> 
+  <date>2011-07-05T14:19:29.814+01:00</date> 
+  <robotUrl>library:/LM-hotels.robot</robotUrl> 
+  <errorMessage>The Set Current Tag action requires a found tag, but the tag finder did not find any tag. There is no tag that matches the attribute name and value. You should adjust the tag finder, or add another tag finder that finds the right tag on this particular page. If you add another tag finder, make sure that only one of them finds a tag on any given page.</errorMessage> 
+  <errorLocation>Load Page - set city - set day - set month - set nights - number of rooms - number of adults - number of children - disabled checkbox - Submit Form - Set Current Tag</errorLocation> 
+  <errorLocationCode>{&lt;0&gt;.&lt;3&gt;.&lt;6&gt;.&lt;11&gt;.&lt;12&gt;.&lt;13&gt;.&lt;14&gt;.&lt;15&gt;.&lt;16&gt;.&lt;17&gt;.&lt;18&gt;}</errorLocationCode> 
+  </exception>
+  </error>
