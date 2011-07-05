@@ -11,7 +11,7 @@ Installation Information
 Request Handlers
 ----------------
 
-There are 2 request handlers, Mashup and Rest API
+There are 2 request handlers, Mashup and RestAPI
 
 1. Mashup
  Accepts any context path as the single HTTP GET Request argument
