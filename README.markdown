@@ -13,12 +13,12 @@ Request Handlers
 
 There are 2 request handlers, Mashup and RestAPI
 
-## Mashup
+### 1. Mashup
 
 - Accepts any context path as the single HTTP GET Request argument
 - Subsequent work will then attempt to generate feed data based on that context path
 
-## RestAPI
+### 1. RestAPI
 
 - Accepts any context path as argument #1 in the HTTP GET Request context path
 - Accepts only the following two valid values as #2 argument in the HTTP GET Request context path
