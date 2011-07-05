@@ -22,6 +22,6 @@ There are 2 request handlers, Mashup and RestAPI
 
 - Accepts any context path as argument #1 in the HTTP GET Request context path
 - Accepts only the following two valid values as #2 argument in the HTTP GET Request context path
--- xml
--- json
+> xml
+> json
 - Subsequent work will then attempt to generate feed data based on that context path and response data format
