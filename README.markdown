@@ -17,7 +17,8 @@ There are 2 request handlers, Mashup and RestAPI.
 
 - Accepts any context path as the single HTTP GET Request argument
 - Subsequent work will then attempt to generate feed data based on that context path
-- Example: ROOT_APP/newyork
+- Examples:
+	- ROOT_APP/newyork
 
 ### 2. RestAPI
 
@@ -26,6 +27,7 @@ There are 2 request handlers, Mashup and RestAPI.
     - xml
 	- json
 - Subsequent work will then attempt to generate feed data based on that context path and response data format 
-- Example: ROOT_APP/newyork/xml [valid]
-- Example: ROOT_APP/newyork/json [valid]
-- Example: ROOT_APP/newyork/blah [invalid, will default to Mashup request handler]
+- Examples:
+	- ROOT_APP/newyork/xml [valid]
+	- ROOT_APP/newyork/json [valid]
+	- ROOT_APP/newyork/blah [invalid, will default to Mashup request handler]
