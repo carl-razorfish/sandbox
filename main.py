@@ -13,6 +13,7 @@ from google.appengine.ext.webapp.util import run_wsgi_app
 
 requestRestApi = r"/(.*)/(xml|json)"
 requestUI = r"/(.*)"
+requestAjaxAPI = "/ajax"
 
 feeds = {
     'bbc'      : 'http://news.bbc.co.uk/weather/forecast/',
@@ -31,14 +32,21 @@ ny_mashup = {
     'weather'  : feeds['yahoo']+'select * from weather.forecast where location=10118'
 }
 
+default_mashup = {
+	'name'	   : 'Unknown'
+}
 def kapowAPI(request):
-    return codecs.open(os.path.join(os.path.dirname(__file__), request))
+	logging.info(request)
+	logging.info(codecs.open(os.path.join(os.path.dirname(__file__), request)))
+	return codecs.open(os.path.join(os.path.dirname(__file__), request))
 
 def getXML(request):
-    return kapowAPI(request).read()
+	logging.info(request)
+	return kapowAPI(request).read()
 
 def getJSON(request):
-    return json.dumps(parseXML(request))
+	logging.info(request)
+	return json.dumps(parseXML(request))
 
 def parseXML(request):
     results = []
@@ -61,20 +69,24 @@ def all(element, nodename):
     path = './/%s' % nodename
     return element.findall(path)
 
+def getDestination(destination, responseType):
+	feed = None
+	out = None
+	if destination == 'newyork':
+		feed = ny_hotels_feed
+	if feed is not None:
+		if responseType == 'xml':
+   			out = getXML(feed)
+		elif responseType == 'json':
+			out = getJSON(feed)
+        if out is not None:
+			return out
+			
 class RestAPI(webapp.RequestHandler):
     def get(self, destination, responseType):
-        logging.info(destination)
-        logging.info(responseType)
-        feed = None 
-        if destination == 'newyork':
-            feed = ny_hotels_feed
-        if feed is not None:
-	        if responseType == 'json':
-	            out = getJSON(feed)
-	        elif responseType == 'xml':
-	   			out = getXML(feed)
-	        if out is not None:
-	        	self.response.out.write(out)
+        result = getDestination(destination, responseType)
+        if result is not None:
+			self.response.out.write(result)
 
 class Mashup(webapp.RequestHandler):
     def get(self, destination):
@@ -82,9 +94,11 @@ class Mashup(webapp.RequestHandler):
         flights_feed = None
         hotels_feed = None
         city_breaks_feed = None
-        mashup = None
         f = None
-
+        default_mashup['name'] = destination
+        default_mashup['hotels'] = None
+        mashup = default_mashup
+        path = os.path.join(os.path.dirname(__file__),'templates/no-results.html')
         if r[1] == '' or r[1] == 'newyork':
             mashup = ny_mashup
             hotels_feed = ny_hotels_feed
@@ -99,15 +113,52 @@ class Mashup(webapp.RequestHandler):
 		if f is not None:
 			mashup['cheapest_flight'] = f[-1]
         	mashup['all_flights'] = f[0:-2]
-        if mashup is not None:
-			logging.info(mashup['all_flights'])
+        if mashup['hotels'] is not None:
+	    	path = os.path.join(os.path.dirname(__file__),'templates/mashup.html')
         
-        path = os.path.join(os.path.dirname(__file__),'templates/mashup.html')
         self.response.out.write(template.render(path, mashup))
 
+class AjaxAPIHandler(webapp.RequestHandler):
+  def get(self):		
+	destination = self.request.get("destination")
+	if destination is not None:
+		logging.info(destination) 
+		result = getDestination(destination,'json')
+  def post(self):
+	destination = self.request.POST.get("destination")
+	if destination is not None: 
+		result = getDestination(destination,'xml')
+		flights_feed = None
+        hotels_feed = None
+        city_breaks_feed = None
+        f = None
+        default_mashup['name'] = destination
+        default_mashup['hotels'] = None
+        mashup = default_mashup
+        path = os.path.join(os.path.dirname(__file__),'templates/no-results.html')
+        if destination == 'newyork':
+            mashup = ny_mashup
+            hotels_feed = ny_hotels_feed
+            city_breaks_feed = ny_city_breaks_feed
+            flights_feed = ny_flights_feed
+        if flights_feed is not None:
+        	f = parseXML(flights_feed)
+        if hotels_feed is not None:
+        	mashup['hotels'] = parseXML(hotels_feed)
+		if city_breaks_feed is not None:
+			mashup['city_break'] = parseXML(city_breaks_feed)[0]
+		if f is not None:
+			mashup['cheapest_flight'] = f[-1]
+        	mashup['all_flights'] = f[0:-2]
+        if mashup['hotels'] is not None:
+		logging.info(mashup)
+		path = os.path.join(os.path.dirname(__file__),'templates/content.html')
+		self.response.out.write(template.render(path, mashup))
+
 application = webapp.WSGIApplication([
-        (requestRestApi, RestAPI),
-        (requestUI,Mashup)
+		(requestAjaxAPI, AjaxAPIHandler),
+		(requestRestApi, RestAPI),
+        (requestUI,Mashup)		
     ],debug=True)
 
 if __name__ == '__main__':
