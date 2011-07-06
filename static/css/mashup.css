@@ -29,18 +29,11 @@ h3 a {font-size:12px; color:#000; display:block; margin-bottom:-10px;}
 .info h2 {color:#EC008C;}
 
 dt {font-weight:bold;}
-dd {margin-top:-15px; margin-bottom:25px; margin-left:60px;}
+dd {margin-top:-15px; margin-bottom:20px; margin-left:60px;}
 .city-break dd {margin-top:-15px; margin-bottom:25px; margin-left:80px;}
 #news,
 #weather,
 dl {border:1px solid #EC008C; -webkit-border-radius: 5px; padding:6px 3px 0px 5px; background:#fff; overflow:hidden;}
-
-
-.ani{
-    -webkit-transition: -webkit-transform 1s,opacity 1s,background 1s,width 1s,height 1s,font-size 1s;
-    -webkit-transition-property: -webkit-transform, opacity, background, width, height, font-size;
-    -webkit-transition-duration: 1s, 1s, 1s, 1s, 1s, 1s;
-    -webkit-transition-timing-function: initial, initial, initial, initial, initial, initial;
-    -webkit-transition-delay: initial, initial, initial, initial, initial, initial;
-    -webkit-border-radius: 5px;
-}
+.top-flight dd {margin-left:70px; margin-bottom:10px;}
+.compare dd {margin-left:70px; margin-bottom:7px;}
+.underline {border-bottom:1px solid #ccc;}
