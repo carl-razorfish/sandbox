@@ -8,11 +8,13 @@ RIA = {
         }
     },
     Class : {
-        Article : function() {
+        Article : function() { 
+			
             this.article = arguments[0];
 
             this.init = function() {
-                this.feed = this.article.dataset['feed'];
+				this.feed = this.article.get("data-feed");
+				Log.info(this.feed)
                 if (!this.feed) return;
                 this.id = this.article.id;
                 this.get();
@@ -28,9 +30,9 @@ RIA = {
 };
 
 (function() {
-    var articles = document.querySelectorAll('article[data-feed]');
+    var articles = document.getElements('article[data-feed]');
     for (var i=0,article; article=articles[i]; i++) {
-        new RIA.Class.Article(article);
+		new RIA.Class.Article(article);
     }
 })();
 
