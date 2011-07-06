@@ -1,7 +1,7 @@
 <header>
     <h1>Welcome to {{ name }}</h1>
 </header>
-<article class="intro"><p>We have collected some information which may be useful to you if you are thinking of visiting {{ name }}.</p></article>
+<section class="intro"><p>We have collected some information which may be useful to you if you are thinking of visiting {{ name }}.</p></section>
 <article class="city-break">
 
 	<h2>Top city break</h2>
@@ -51,7 +51,7 @@
 		<dt>Price:<dt>
 		<dd>&#163;{{hotel.Price}}<dd>
 		<dt><a href="#" class="show-map">Map:</a></dt> 
-		<dd class="map"><a href="http://maps.google.co.uk/maps?rls=en&amp;q={{ hotel.Name|urlencode }},{{hotel.Address|urlencode}}" rel="external" target="_blank"><img src="http://maps.google.com/maps/api/staticmap?size=225x150&amp;zoom=13&amp;maptype=roadmap&amp;markers=size:mid%7Ccolor:blue%7C{{ hotel.Name|urlencode }},{{hotel.Address|urlencode}}&amp;sensor=false" alt="{{hotel.Name}}" /></a></dd>	
+		<dd class="map"><a href="http://maps.google.co.uk/maps?rls=en&amp;q={{ hotel.Name|urlencode }}+{{hotel.Address|urlencode}}" rel="external" target="_blank"><img src="http://maps.google.com/maps/api/staticmap?size=225x150&amp;zoom=13&amp;maptype=roadmap&amp;markers=size:mid%7Ccolor:blue%7C{{hotel.Address|urlencode}}&amp;sensor=false" alt="{{hotel.Name}}" /></a></dd>	
 	</dl>
 	
 	{% endfor %}
