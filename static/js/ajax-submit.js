@@ -6,6 +6,7 @@ RIA.AjaxSubmit = new Class({
 	initialize: function(options) {
 		this.setOptions(options);
 		this.content = document.id("content");
+		this.tempContent = document.id("temp-content");
 		this.ajaxForm = document.id("controls");
 		this.destination = document.id("destination");
 		this.addEventListeners();
@@ -29,16 +30,29 @@ RIA.AjaxSubmit = new Class({
 		});
 	},
 	requestData: function(destination) {  
+		this.tempContent = new Element("div", {"class":"temp-content"}).inject(document.body);
 		this.request = new Request.HTML({
 			method:"POST",
 			url:"/ajax",
-			update:document.id("content"),
+			update:this.tempContent,
+			onRequest: this.requestStart.bind(this),
 			onSuccess: this.requestSuccess.bind(this),
 			onFailure: this.requestFailure.bind(this)
 		}).send('destination='+destination);
 	},
+	requestStart: function() {
+		this.content.setStyle("background", "#fff url(static/img/ajax-loader.gif) no-repeat 47% 45%");
+		this.content.getFirst().morph({"opacity":0});
+	},
 	requestSuccess: function(responseHTML, responseText) {
 		Log.info("requestSuccess");
+        this.content.empty();
+		this.tempContent.inject(this.content).set({
+			"styles":{
+				"position":"static"
+			}
+		}).morph({"opacity":1});
+		this.content.setStyle("background", "#fff"); 
 	},
 	requestFailure: function(e) {
 		Log.error({method:"requestFailure", error:e});
