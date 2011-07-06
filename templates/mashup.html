@@ -10,6 +10,11 @@
 		top:-10000em;
 		left:-10000em;
 	}
+
+	.map img {
+		height:0px;
+		opacity:0;
+	}
 </style>
 {% endblock %}
 {% block content %}
@@ -81,7 +86,10 @@
 						<dd>{{hotel.Phone}}<dd>
 						<dt>Price:<dt>
 						<dd>&#163;{{hotel.Price}}<dd>
+						<dt><a href="#" class="show-map">Map:</a></dt> 
+						<dd class="map"><a href="http://maps.google.co.uk/maps?rls=en&amp;q={{ hotel.Name|urlencode }},{{hotel.Address|urlencode}}" rel="external" target="_blank"><img src="http://maps.google.com/maps/api/staticmap?size=225x150&amp;zoom=13&amp;maptype=roadmap&amp;markers=size:mid%7Ccolor:blue%7C{{ hotel.Name|urlencode }},{{hotel.Address|urlencode}}&amp;sensor=false" alt="{{hotel.Name}}" /></a></dd>	
 					</dl>
+					
 					{% endfor %}
 			    </article>
 			    <article class="info">
