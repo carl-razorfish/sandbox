@@ -53,6 +53,8 @@ RIA.AjaxSubmit = new Class({
 			}
 		}).morph({"opacity":1});
 		this.content.setStyle("background", "#fff"); 
+		
+		RIA.MapHandler.init();
 	},
 	requestFailure: function(e) {
 		Log.error({method:"requestFailure", error:e});

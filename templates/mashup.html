@@ -3,14 +3,6 @@
 {% block meta %}
 <link rel="stylesheet" href="/static/css/mashup.css">
 <link rel="shortcut icon" type="image/x-icon" href="http://cdn.lastminute.com/site/favicon.ico?skin=engb.lastminute.com" />
-<style type="text/css">
-	.temp-content {
-		opacity:0; 
-		position:absolute;
-		top:-10000em;
-		left:-10000em;
-	}
-</style>
 {% endblock %}
 {% block content %}
 <body>
@@ -27,70 +19,10 @@
 				<button id="submit" type="submit">Go</button>
 			</form>
 	    </nav>
-	    <div id="content" class="content" style="min-height:800px">
-		    <div>
-				<header>
-			        <h1>Welcome to {{ name }}</h1>
-			    </header>
-				<article class="intro"><p>We have collected some information which may be useful to you if you are thinking of visiting {{ name }}.</p></article>
-				<article class="city-break">
-				
-					<h2>Top city break</h2>
-					<dl>
-						<dt>Hotel:<dt>
-						<dd>{{city_break.HotelName}}<dd>
-						<dt>Departure:<dt>
-						<dd>{{city_break.OutboundAirports}}<dd>
-						<dt>Destination: <dt>
-						<dd>{{city_break.InboundAirports}}<dd>
-						<dt>Price:<dt>
-						<dd>{{city_break.Total}}<dd>
-					</dl>
-				</article>
-				<article class="flights">
-					<h2>Top flight to {{ name }}</h2>
-					    <dl>
-					        <dt>Name:</dt>
-					        <dd>{{ cheapest_flight.inbound_flight}}</dd>
-					        <dt>Departure:</dt>
-					        <dd>{{ cheapest_flight.inbound_depart}}</dd>
-					        <dt>Arrival:</dt>
-					        <dd>{{ cheapest_flight.inbound_arrive }}</dd>
-					        <dt>Price:</dt>
-					        <dd>&#163;{{ cheapest_flight.price }}</dd>
-					    </dl>
-					<h2>Compare</h2>
-					    <dl>
-					    {% for flight in all_flights %}
-					        <dt>Airline:</dt>
-					        <dd>{{ flight.airline }}</dd>
-					        <dt>Price:</dt>
-					        <dd>&#163;{{ flight.price}}</dd>
-	    				{% endfor %}
-	    				</dl>
-				</article>
-				<article class="hotels">
-					<h2>Best deals for Hotels in {{ name }}</h2>
-					{% for hotel in hotels %}
-					<dl>
-						<dt>Name:<dt>
-						<dd>{{hotel.Name}}<dd>
-						<dt>Address:<dt>
-						<dd>{{hotel.Address}}<dd>
-						<dt>Phone:<dt>
-						<dd>{{hotel.Phone}}<dd>
-						<dt>Price:<dt>
-						<dd>&#163;{{hotel.Price}}<dd>
-					</dl>
-					{% endfor %}
-			    </article>
-			    <article class="info">
-					<h2>Useful info about {{ name }}</h2>
-			    	<article id="weather" data-feed="{{ weather }}"></article>
-			    	<article id="news" data-feed="{{ news }}"></article>
-			    </article>
-		    
-		     </div>         
+	    <div id="content" class="content">
+			<div>
+				{% include "content.html" %}
+		    </div>         
 		</div>	
 		<footer class="footer">
 	    	2011&copy;	
@@ -100,10 +32,12 @@
 	<script src="/static/js/mootools-core-1.3.2.js"></script>
 	<script src="/static/js/log.js"></script>
     <script src="/static/js/mashup.js"></script>
+	<script src="/static/js/map-handler.js"></script>
 	<script src="/static/js/ajax-submit.js"></script>
 	<script type="text/javascript">
 	//<![CDATA[
-	     RIA.Init = new RIA.AjaxSubmit();
+		RIA.MapHandler.init();
+		RIA.Init = new RIA.AjaxSubmit();
 	//]]> 
 	</script>
 </body>
