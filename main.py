@@ -122,7 +122,8 @@ class AjaxAPIHandler(webapp.RequestHandler):
 		result = getDestination(destination,'json')
   def post(self):
 	destination = self.request.POST.get("destination")
-	if destination is not None: 
+	if destination is not None:
+		""" This is nasty, and a repeat of the Mashup class code """ 
 		result = getDestination(destination,'xml')
 		flights_feed = None
         hotels_feed = None
