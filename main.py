@@ -36,16 +36,12 @@ default_mashup = {
 	'name'	   : 'Unknown'
 }
 def kapowAPI(request):
-	logging.info(request)
-	logging.info(codecs.open(os.path.join(os.path.dirname(__file__), request)))
 	return codecs.open(os.path.join(os.path.dirname(__file__), request))
 
 def getXML(request):
-	logging.info(request)
 	return kapowAPI(request).read()
 
 def getJSON(request):
-	logging.info(request)
 	return json.dumps(parseXML(request))
 
 def parseXML(request):
@@ -151,7 +147,6 @@ class AjaxAPIHandler(webapp.RequestHandler):
 			mashup['cheapest_flight'] = f[-1]
         	mashup['all_flights'] = f[0:-2]
         if mashup['hotels'] is not None:
-		logging.info(mashup)
 		path = os.path.join(os.path.dirname(__file__),'templates/content.html')
 		self.response.out.write(template.render(path, mashup))
 
