@@ -35,7 +35,7 @@
 			</article>
 			<article class="flights">
 				<h2>Top flight to {{ name }}</h2>
-				    <dl>
+				    <dl class="top-flight">
 				        <dt>Name:</dt>
 				        <dd>{{ cheapest_flight.inbound_flight}}</dd>
 				        <dt>Departure:</dt>
@@ -45,13 +45,14 @@
 				        <dt>Price:</dt>
 				        <dd>&#163;{{ cheapest_flight.price }}</dd>
 				    </dl>
-				<h2>Compare</h2>
-				    <dl>
+				<h2>Compare with other airlines</h2>
+				    <dl class="compare">
 				    {% for flight in all_flights %}
 				        <dt>Airline:</dt>
 				        <dd>{{ flight.airline }}</dd>
-				        <dt>Price:</dt>
-				        <dd>&#163;{{ flight.price}}</dd>
+				        <dt class="underline">Price:</dt>
+				        <dd class="underline">&#163;{{ flight.price}}</dd>
+	
     				{% endfor %}
     				</dl>
 			</article>
