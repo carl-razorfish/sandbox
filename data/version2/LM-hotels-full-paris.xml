@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rest-result executionTime="380608" statusCode="200" executionId="254d2a4c000003a1">
+	<output-objects>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Helios Opera - 3* - Paris</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651196&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000119187-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651196&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000119187-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/paris/hotel/1/136873/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Helios Opera - 3* - Paris&amp;quot; title=&amp;quot;Helios Opera - 3* - Paris&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">75 rue de la Victoire</attribute>
+			<attribute type="text" name="description">Located in the heart of Paris, the Hotel Helios Opera is close to the Opera House, the main touristic attractions as Montmartre and Louvre Museum and also next to the famous department stores as Galeries Lafayette. The trendy 1930s room decoration combines wenge furniture with champagne color duvet and blue or red accessories. A stained glass roof illuminates the spacious lobby.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/1/136873/Bar_Lounge_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/1/136873/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/1/136873/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;191.86</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651196&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000119187-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Garden Elysee *recommended* - 4* - Paris</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651235&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000188222-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651235&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000188222-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/023742/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Garden Elysee *recommended* - 4* - Paris&amp;quot; title=&amp;quot;Garden Elysee *recommended* - 4* - Paris&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">12 Rue Saint Didier 16th Arr.</attribute>
+			<attribute type="text" name="description">Nice contemporary property between Champs Elysee and Eiffel tower. The Garden Elysee hotel is a few steps from Trocadero. Nice lobby with fireplaces &amp;amp; bar, winter garden, terrace, free Wi-Fi, fitness room and private parking.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Eiffel Tower* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Museum of modern Arts* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Arc de Triomphe* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Champs Elysees* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Fondation Pierre Berge - Yves Saint Laurent* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Trocadero Place* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Cruise on the Seine River* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/023742/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/023742/Exterior_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/023742/Exterior_F_3.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;325.95</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651235&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000188222-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Hilton Paris Arc De Triomphe - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651282&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=14713-0-6-HIL71893%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651282&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=14713-0-6-HIL71893%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/014713/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Hilton Paris Arc De Triomphe - 4*&amp;quot; title=&amp;quot;Hilton Paris Arc De Triomphe - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">51-57 rue de Courcelles</attribute>
+			<attribute type="text" name="description">The Art Deco-style Hilton Paris Arc de Triomphe is located across from the Parc Monceau, at the heart of the eighth district of Paris, and within walking ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/014713/Exterior_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/014713/Lobby_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/014713/Guest_room_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;466.50</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651282&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;14713-0-6-HIL71893$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Le Littre *Recommended* - 4* - Paris</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651365&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000126241-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651365&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000126241-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/paris/hotel/1/136897/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Le Littre *Recommended* - 4* - Paris&amp;quot; title=&amp;quot;Le Littre *Recommended* - 4* - Paris&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">9 Rue Littre</attribute>
+			<attribute type="text" name="description">Located in the heart of Paris between Montparnasse and Saint Germain des Pres, the hotel Le Littre is the place of all the art, fashion or gastronomy lovers. Situated between the Luxembourg Garden, the Musee Rodin, le Bon Marche and the Montparnasse tower. So many picturesque places, museums, shops, restaurants and small bistros, antique dealers or else art galleries are waiting for you just a step away from Le Littre. Could you dream of a more authentic Paris?</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Louvre Museum* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    St Germain Des Pres* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Invalides* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Notre Dame* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Eiffel Tower* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Rodin Museum* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Luxembourg Garden* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/1/136897/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/1/136897/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/1/136897/Guest_room_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;297.47</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651365&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000126241-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Pullman Paris Tour Eiffel - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651400&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=9389-0-1-TRA00141%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651400&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=9389-0-1-TRA00141%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelpn.com/images/paris/hotel/0/009389/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Pullman Paris Tour Eiffel - 4*&amp;quot; title=&amp;quot;Pullman Paris Tour Eiffel - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">18 AVENUE DE SUFFREN PARIS FR 75015</attribute>
+			<attribute type="text" name="description">Ideally situated on the Left Bank in Paris, a short walk from the Eiffel Tower, the Pullman Paris Tour Eiffel provides an exclusive setting for both business ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/paris/hotel/0/009389/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/paris/hotel/0/009389/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/paris/hotel/0/009389/Lobby_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;316.86</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651400&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;9389-0-1-TRA00141$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Renaissance Paris Arc de Triomphe Hotel - 5*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651443&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=53622-0-6-MAR71958%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-5-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651443&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=53622-0-6-MAR71958%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/053622/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Renaissance Paris Arc de Triomphe Hotel - 5*&amp;quot; title=&amp;quot;Renaissance Paris Arc de Triomphe Hotel - 5*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">39 Avenue de Wagram</attribute>
+			<attribute type="text" name="description">The Renaissance Paris Arc De Triomphe Hotel is located few steps away from the Arc de Triomphe and the Champs-Elysees Avenue.It??s Just awarded the prestigious ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/053622/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/053622/Exterior_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/053622/Other_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;476.18</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651443&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;53622-0-6-MAR71958$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Le Claridge Champs-Elysees - 4* - Paris</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651483&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000394167-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651483&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000394167-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1056356_1056356/145881/100X75.jpeg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Le Claridge Champs-Elysees - 4* - Paris&amp;quot; title=&amp;quot;Le Claridge Champs-Elysees - 4* - Paris&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">74, Avenue des Champs-Elysees</attribute>
+			<attribute type="text" name="description">Fabulous property on the Champs Elysees! Enjoy this prime location, right on the world&amp;apos;s most famous avenue. The property&amp;apos;s lodging units feature the latest in-room technology, private kitchens, dining and living areas, complemented by the finest hotel services and facilities. The Fraser Suites Le Claridge Champs-Elysees is ideally connected to the metro system and the Louvre, Eiffel Tower, Opera and department stores are a swift ride away!</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1056356_1056356/145881/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1056356_1056356/283863/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1056356_1056356/145897/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;410.30</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651483&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000394167-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Radisson Blu Champs Elysees - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651513&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=21111-0-1-CAR71829%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651513&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=21111-0-1-CAR71829%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelpn.com/images/paris/hotel/0/021111/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Radisson Blu Champs Elysees - 4*&amp;quot; title=&amp;quot;Radisson Blu Champs Elysees - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">78 AVENUE MARCEAU</attribute>
+			<attribute type="text" name="description">Small enough to provide the utmost in personalised service, the Radisson Blu Champs Elysees has 45 exclusive guest rooms and a suite affording breathtaking ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/paris/hotel/0/021111/Exterior_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/paris/hotel/0/021111/Guest_room_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/paris/hotel/0/021111/Suite_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;563.34</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651513&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;21111-0-1-CAR71829$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Hotel Serotel Lutece *Recommended* - 3* - Paris</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651533&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=29-0-2-EXT%3A7741%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651533&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=29-0-2-EXT%3A7741%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/29_203/284512/100X75.jpeg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Hotel Serotel Lutece *Recommended* - 3* - Paris&amp;quot; title=&amp;quot;Hotel Serotel Lutece *Recommended* - 3* - Paris&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">2 Rue Berthollet 5th Arr.</attribute>
+			<attribute type="text" name="description">Located in the Latin Quarter, a district full of history and close to prestigious places as Pantheon Church, Sorbonne University and the Luxembourg Gardens, the Hotel Serotel Lutece invites you to appreciate its discrete charm and Parisian atmosphere. The rooms are well-equipped and the hotel itself offers a wide range of facilities and services.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/29_203/284512/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/29_203/284513/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/29_203/284502/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;244.67</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651533&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;29-0-2-EXT:7741$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Pullman Versailles Chateau - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651558&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=25744-0-1-TRA00141%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651558&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=25744-0-1-TRA00141%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelpn.com/images/versailles/hotel/0/025744/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Pullman Versailles Chateau - 4*&amp;quot; title=&amp;quot;Pullman Versailles Chateau - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">2BIS AVENUE DE PARIS</attribute>
+			<attribute type="text" name="description">In the heart of town, close to the Chateau de Versailles, the elegant Pullman Versailles Chateau set behind vintage iron gates. Relax and enjoy ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/versailles/hotel/0/025744/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/versailles/hotel/0/025744/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/versailles/hotel/0/025744/Lobby_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;271.98</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651558&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;25744-0-1-TRA00141$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">BEST WESTERN PREMIER Trocadero la Tour - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651592&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=35702-0-6-BES00177%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651592&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=35702-0-6-BES00177%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelpn.com/images/paris/hotel/0/035702/Guest_room_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;BEST WESTERN PREMIER Trocadero la Tour - 4*&amp;quot; title=&amp;quot;BEST WESTERN PREMIER Trocadero la Tour - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">5 BIS RUE MASSENET</attribute>
+			<attribute type="text" name="description">The Best Western Premier Trocadero La Tour hotel is located less than one mile from the Eiffel Tower, approximately 14 miles from Orly International Airport, ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/035702/Lobby_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/035702/Lobby_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/035702/Restaurant_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;457.70</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651592&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;35702-0-6-BES00177$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Warwick Champs Elysees Hotel - 4* - Paris</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651641&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=215954-0-2-EXT%3A2344%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651641&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=215954-0-2-EXT%3A2344%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/027574/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Warwick Champs Elysees Hotel  - 4* - Paris&amp;quot; title=&amp;quot;Warwick Champs Elysees Hotel  - 4* - Paris&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">5 Rue de Berri</attribute>
+			<attribute type="text" name="description">Opened in 1981, in the very fashionable Eighth Arrondissement of Paris, this hotel provides comfort and superb service along with a host of fantastic facilities. The Warwick Champs-Elysees is a deluxe hotel located in the centre of Paris near the most popular attractions, shopping, dining and entertainment venues, opening up a host of possibilities to make for an accomplished stay, abounding with activities and enjoyment.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Sacre Coeur: 5.2 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Champs Elysees: 50.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Eiffel Tower: 2.5 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Arc de Triomphe: 800.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Tuileries Gardens: 3.7 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Louvre Museum: 3.7 Kilometre* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/027574/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/027574/Lobby_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/027574/Guest_room_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;403.07</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651641&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;215954-0-2-EXT:2344$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">L&amp;apos;Adresse - 3* - Paris</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651664&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000079395-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651664&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000079395-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/paris/hotel/1/106167/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;L&amp;apos;Adresse - 3* - Paris&amp;quot; title=&amp;quot;L&amp;apos;Adresse - 3* - Paris&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">22, Rue du Debarcadere</attribute>
+			<attribute type="text" name="description">Set within walking distance of Avenue des Champs Elysees, L&amp;apos;Adresse recently opened its doors with luxury and design. L&amp;apos;Adresse welcomes you into modern and stylish settings. Designed like the cabins of a yacht, the 23 rooms offer refined accommodation following one of four different themes. They all feature Loewe plasma TV, iPod docking station and Nespresso machine with free capsules.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/1/106167/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/1/106167/Restaurant_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/1/106167/Exterior_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;475.25</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651664&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000079395-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Saint James &amp;amp; Albany Hotel-Spa - 4* - Paris</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651704&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000283248-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651704&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000283248-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/027689/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Saint James &amp;amp;amp; Albany Hotel-Spa - 4* - Paris&amp;quot; title=&amp;quot;Saint James &amp;amp;amp; Albany Hotel-Spa - 4* - Paris&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">202 rue de Rivoli</attribute>
+			<attribute type="text" name="description">In the heart of Paris, facing the Tuileries Gardens, within easy walking distance from the Louvre Museum, Concorde Place, the Opera and the adjacent department store district, as well as the famous fashion high street rue Saint Honore with its legendary boutiques, the Saint James &amp;amp; Albany Hotel-Spa offers well appointed rooms and suites in a 17th century establishment overlooking 2 private inner courtyards.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Notre Dame Cathedrale&amp;amp;nbsp;: 1.5 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Tuileries Gardens&amp;amp;nbsp;: 50.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    St-Germain-des-Pres&amp;amp;nbsp;: 700.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Opera Palais Garnier&amp;amp;nbsp;: 700.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Place Vendome&amp;amp;nbsp; &amp;amp;nbsp;: 200.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Orsay Museum&amp;amp;nbsp;: 900.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Champs-Elysees - Concorde&amp;amp;nbsp;: 500.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Louvre Museum&amp;amp;nbsp;: 300.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Centre Pompidou&amp;amp;nbsp;: 1.6 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Quai Branly Museum&amp;amp;nbsp;: 2.7 Kilometre* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/027689/Exterior_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/027689/Restaurant_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/027689/Exterior_F_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;396.04</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651704&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000283248-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Opera Diamond - 4* - Paris</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651762&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000009794-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651762&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000009794-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/paris/hotel/1/116222/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Opera Diamond - 4* - Paris&amp;quot; title=&amp;quot;Opera Diamond - 4* - Paris&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">4, rue de la Pepiniere</attribute>
+			<attribute type="text" name="description">Opera Diamond is a rare present dedicated to feminine beauty. Each of the rooms is an expression of the woman&amp;apos;s sensual meeting with this privileged jewel. All materials have been carefully chosen for the pleasure of your eyes and senses. The design furniture of incredible elegance provokes your glance and creates a comfortable and warm environment with timeless charm.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/1/116222/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/1/116222/Other_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/1/116222/Guest_room_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;385.48</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651762&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000009794-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Top Secret hotel</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651796&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000327246-1-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651149&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=information&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000327246-1-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/tsh.png&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Incredibly comfy &amp;amp;amp; quiet hotel near Champs Elysees - 4* - Paris&amp;quot; title=&amp;quot;Incredibly comfy &amp;amp;amp; quiet hotel near Champs Elysees - 4* - Paris&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address"/>
+			<attribute type="text" name="description">This is clearly the deal of the moment in Paris! This is a luxury property located few minutes from Champs Elysees and the Opera by metro, in a very typical Parisian neighbourhood with plenty of restaurants, bars and with easy access to public transport. The hotel&amp;apos;s stylish exterior and warm interiors combine the traditional French charm with all the modern comforts. Don&amp;apos;t miss the restaurant with a new young chef who will surprise you with his unique style and tasteful cuisine!</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1"/>
+			<attribute type="text" name="photo2"/>
+			<attribute type="text" name="photo3"/>
+			<attribute type="text" name="price">&amp;#163;168.98</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651796&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000327246-1-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Pullman Paris Rive Gauche - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651827&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=5076-0-1-TRA00141%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319411490541320&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651827&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=5076-0-1-TRA00141%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319411490541320&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelpn.com/images/paris/hotel/0/005076/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Pullman Paris Rive Gauche - 4*&amp;quot; title=&amp;quot;Pullman Paris Rive Gauche - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">8 12 RUE LOUIS ARMAND</attribute>
+			<attribute type="text" name="description">Near to the Paris and Porte de Versailles exhibition center, the Pullman Paris Rive Gauche hotel is the perfect place for your business trip or vacation. ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/paris/hotel/0/005076/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/paris/hotel/0/005076/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/paris/hotel/0/005076/Lobby_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;279.90</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651827&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;5076-0-1-TRA00141$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Pullman Paris Montparnasse - 4* - Paris</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651859&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210891-0-2-EXT%3A2355%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651859&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210891-0-2-EXT%3A2355%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/011600/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Pullman Paris Montparnasse - 4* - Paris&amp;quot; title=&amp;quot;Pullman Paris Montparnasse - 4* - Paris&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">19, rue du Commandant Mouchotte</attribute>
+			<attribute type="text" name="description">Situated in the heart of the left bank, Pullman Paris Montparnasse, immerses guests in the rich culture and refined elegance of Paris. Montparnasse emerged as the heart of Parisian intellectual life at the start of the 20th Century and continues to be an artistic hub of the city. Discover the new lobby and cafe Atlantic. Just a few minutes away from the Eiffel Tower, Saint-Germain-des-Pres and Luxembourg Gardens, see all that Paris has to offer and become a part of the rhythm of the city.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Louvre Museum* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Saint Germain des Pres* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Champs Elysees* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Notre-Dame Cathedral* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Rodin Museum* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Orsay Museum* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Eiffel Tower* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Luxembourg Gardens* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/011600/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/011600/Exterior_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/011600/Lobby_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;359.08</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651859&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;210891-0-2-EXT:2355$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Hotel Balzac - 4* - Paris</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651895&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=216936-0-2-EXT%3A5581%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651895&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=216936-0-2-EXT%3A5581%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/028260/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Hotel Balzac - 4* - Paris&amp;quot; title=&amp;quot;Hotel Balzac - 4* - Paris&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">6 Rue Balzac 08 Arr.</attribute>
+			<attribute type="text" name="description">This 19th-century private mansion recently underwent an extensive refurbishment. Originally built for the Paris Opera Director and today still echoing the spirit of the famous French novelist. Hotel Balzac offers luxurious settings, neo-classical and romantic decor with vibrant and warm colours, state-of-the art technology and personalized service.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/028260/Exterior_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/028260/Exterior_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/028260/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;436.53</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651895&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;216936-0-2-EXT:5581$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Hotel Napoleon - 4* - Paris</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651950&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000002677-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651950&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000002677-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/006084/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Hotel Napoleon - 4* - Paris&amp;quot; title=&amp;quot;Hotel Napoleon - 4* - Paris&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">40 avenue de Friedland</attribute>
+			<attribute type="text" name="description">Only 150 feet from the Champs Elysees, the Hotel Napoleon is the closest hotel to the &amp;apos;Arc de Triomphe&amp;apos;. This unique and privileged location gives its hosts inherent benefits being downtown next to the business district, the tourist sites and the most famous places of fashion and luxury. Rooms of the upper floors have a splendid view of the Arc de Triomphe and The Eiffel Tower. The hotel features a First Empire style armchair next to a flat TV screen, a tester bed in a Wi-Fi Zone.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/006084/Lobby_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/006084/Lobby_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/006084/Meeting_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;381.96</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651950&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000002677-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Radisson Blu Ambassador Hotel - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=651997&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=11935-0-1-CAR71829%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=651997&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=11935-0-1-CAR71829%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/011935/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Radisson Blu Ambassador Hotel - 4*&amp;quot; title=&amp;quot;Radisson Blu Ambassador Hotel - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">16 BOULEVARD HAUSSMANN PARIS FR 75009</attribute>
+			<attribute type="text" name="description">Situated right in the center of the financial district, just two blocks away from the famous opera garnier and the parisian department stores, the Radisson ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/011935/Exterior_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/011935/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/011935/Meeting_room_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;466.52</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;651997&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;11935-0-1-CAR71829$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">L&amp;apos;Empire Paris - 4* - Paris</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=652037&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000406631-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=652037&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000406631-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/069535/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;L&amp;apos;Empire Paris - 4* - Paris&amp;quot; title=&amp;quot;L&amp;apos;Empire Paris - 4* - Paris&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">48 rue de l&amp;apos;Arbre Sec</attribute>
+			<attribute type="text" name="description">This lovely hotel dating from the 18th century is situated between the Saint-Honor&amp;#233; street and the Louvre Museum and it invites you to enjoy luxury, design and wellness. Entirely redecorated, this boutique hotel opens its doors to the elegance of the Empire style, as well as the sobriety of modern design. Its 42 rooms and suites of refined style offer you a sensation of space, comfort and relax.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/069535/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/069535/Guest_room_F_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/069535/Guest_room_E_3.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;403.09</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;652037&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000406631-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Best Western Premier Louvre Saint Honor&amp;#233; - 4* - Paris</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=652066&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=215316-0-2-EXT%3A137347%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=652066&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=215316-0-2-EXT%3A137347%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/215316_215316/182916/100X75.jpeg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Best Western Premier Louvre Saint Honor&amp;amp;eacute; - 4* - Paris&amp;quot; title=&amp;quot;Best Western Premier Louvre Saint Honor&amp;amp;eacute; - 4* - Paris&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">141 rue Saint Honor&amp;#233;</attribute>
+			<attribute type="text" name="description">The Hotel Louvre Saint-Honor&amp;#233; situated in the most famous street of Paris has an exceptional location between the main entrance of the Louvre Museum and the Palais Royal, close to the Mus&amp;#233;e d&amp;apos;Orsay, Notre-Dame Cathedral and the Marais district. The Hotel Louvre Saint-Honor&amp;#233; offers 37 well-equipped rooms, totally renovated in 2008 in a contemporary Parisian style.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/215316_215316/182916/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/215316_215316/182917/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/215316_215316/182918/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;343.24</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;652066&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;215316-0-2-EXT:137347$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">INTERCONTINENTAL PARIS LE GRAN - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=652084&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1189-0-6-INT71918%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=652084&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1189-0-6-INT71918%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/001189/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;INTERCONTINENTAL PARIS LE GRAN - 4*&amp;quot; title=&amp;quot;INTERCONTINENTAL PARIS LE GRAN - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">2 RUE SCRIBE</attribute>
+			<attribute type="text" name="description">The Intercontinental Paris Le Grand is located 330 yards from the Opera Garnier and Opera Metro Station. This luxurious hotel offers 4-star accommodations ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/001189/Exterior_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/001189/Guest_room_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/001189/Suite_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;554.52</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;652084&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1189-0-6-INT71918$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Color Design Hotel *Recommended* - 3* - Paris</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=652131&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000406189-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=652131&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000406189-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=paris&amp;amp;amp;numRooms=1&amp;amp;amp;dest=PAR&amp;amp;amp;_gsid=S72722479-T078V049706398907445956530489154781635&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319411490541320&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/055330/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Color Design Hotel *Recommended* - 3* - Paris&amp;quot; title=&amp;quot;Color Design Hotel *Recommended* - 3* - Paris&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">35 Rue Citeaux 12th Arr.</attribute>
+			<attribute type="text" name="description">Set in a peaceful street in the heart of the most fashionable area of Paris, between the Bastille and the Gare de Lyon, the Color Design Hotel will charm those who love strolling through this historic quarter from Faubourg St Antoine to the Place de Vosges. Guests will enjoy the proximity of numerous bars, restaurants, theatres and boutiques.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/055330/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/055330/Lobby_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/paris/hotel/0/055330/Lobby_G_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;217.03</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;652131&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000406189-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;paris&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;PAR&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319411490541320&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+	</output-objects>
+</rest-result>

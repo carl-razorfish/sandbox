@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rest-result executionTime="491326" statusCode="200" executionId="254d2a4c000003b3">
+	<output-objects>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Inntel Hotels Amsterdam Centre - 4* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1355708&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210478-0-2-EXT%3A260%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319412460613833&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1355708&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210478-0-2-EXT%3A260%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319412460613833&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/028719/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Inntel Hotels Amsterdam Centre - 4* - Amsterdam&amp;quot; title=&amp;quot;Inntel Hotels Amsterdam Centre - 4* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Nieuwezijdskolk 19</attribute>
+			<attribute type="text" name="description">Situated in the historical heart of Amsterdam and within walking distance from Central station, DamSquare and all other tourist attractions. All rooms are modern, tastefully decorated and are equipped with the luxurious amenities for a stay to remember! Parking is available near the hotel Parking De Kolk. You can ask for a 25% discount card at the reception upon departure. Free Wi-Fi available in all guest rooms.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/028719/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/028719/Bar_Lounge_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/028719/Restaurant_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;174.74</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1355708&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;210478-0-2-EXT:260$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">NH Amsterdam Centre - 4* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1355796&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=213115-0-2-EXT%3A135028%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1355796&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=213115-0-2-EXT%3A135028%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/031433/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;NH Amsterdam Centre - 4* - Amsterdam&amp;quot; title=&amp;quot;NH Amsterdam Centre - 4* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Stadhouderskade 7</attribute>
+			<attribute type="text" name="description">Located opposite to the famous Leidseplein and around the corner of the Vondel Park and Museum Square. It is like a breath of fresh air to spend the night in NH Amsterdam Centre. The atmosphere is pleasant and comfortable. Most tourist attractions are in walking distance or easy to reach by tram that stops close to the hotel. The several bars, restaurant and wellness area will assure you a very comfortable and relaxing stay in Amsterdam.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Van Gogh-Museum* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Anne Frank House* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Rembrandt Square* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Rijksmuseum* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Flower Market* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Dam Square* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    RAI Exhibition Centre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Rembrandt House* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/031433/Lobby_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/031433/Guest_room_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/031433/Guest_room_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;188.52</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1355796&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;213115-0-2-EXT:135028$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">WestCord Fashion Hotel Amsterdam - 4* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1355856&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1061926-0-2-EXT%3A240%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1355856&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1061926-0-2-EXT%3A240%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/1/102762/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;WestCord Fashion Hotel Amsterdam - 4* - Amsterdam&amp;quot; title=&amp;quot;WestCord Fashion Hotel Amsterdam - 4* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Hendrikje Stoffelsstraat 1</attribute>
+			<attribute type="text" name="description">The WestCord Fashion Hotel Amsterdam is located opposite the World Fashion Centre inside the ring-road A10. Due to this ideal location, the Schiphol Airport and the RAI Convention Centre are very close situated. The tram stops are in front of the hotel and will bring you to the city centre within approx. 10 minutes. This four star hotel surprises you with its stylish appearance and luxurious facilities.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    RAI* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Leidse Plein* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Amsterdam City Centre* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/1/102762/Exterior_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/1/102762/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/1/102762/Lobby_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;153.67</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1355856&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1061926-0-2-EXT:240$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Moevenpick Hotel Amsterdam City Centre - 4* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1355903&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000257177-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1355903&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000257177-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/065165/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Moevenpick Hotel Amsterdam City Centre - 4* - Amsterdam&amp;quot; title=&amp;quot;Moevenpick Hotel Amsterdam City Centre - 4* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Piet Heinkade 11</attribute>
+			<attribute type="text" name="description">The hotel reflects the city&amp;apos;s international and cosmopolitan atmosphere due to its prime location in the renewed area of the city centre. Get blown away by the spectacular view from the 408 modern hotel rooms, spread over 20 floors which give you a panoramic view over Amsterdam and its surroundings. The hotel is easily reached in a short ride from the highway and a short walk or convenient tram ride from Central Station and the historic city centre.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Anne Frank House: 4.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Schiphol Airport: 22.7 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Dam Square: 3.5 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Rijksmuseum: 5.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Central Station* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Flower Market: 3.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Leidseplein: 5.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Madame Tussaud&amp;apos;s Wax Museum: 3.5 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Stedelijk Museum: 2.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Royal Palace: 3.5 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Van Gogh Museum: 5.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Vondelpark: 5.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/065165/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/065165/Restaurant_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/065165/Exterior_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;275.65</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1355903&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000257177-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Die Port Van Cleve - 4* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1355973&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210420-0-2-EXT%3A194%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1355973&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210420-0-2-EXT%3A194%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/025147/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Die Port Van Cleve - 4* - Amsterdam&amp;quot; title=&amp;quot;Die Port Van Cleve - 4* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">N.Z. Voorburgwal 176-180</attribute>
+			<attribute type="text" name="description">Situated at the corner of Dam Square, next to the Royal Palace, this is the place where Heineken started its first brewery. The hotel retains many original features from the 19th century. It is a listed building with a colourful history. In traditional style and ambience, it gracefully integrates the modern facilities expected at a luxury 4-star-hotel. Tram stops in front of the hotel. Central Station and most tourist attractions on walking distance.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Dam Square* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    The Royal Palace* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Anne Frank* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Hermitage Amsterdam* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/025147/Exterior_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/025147/Guest_room_F_4.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/025147/Restaurant_F_3.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;165.46</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1355973&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;210420-0-2-EXT:194$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">WestCord Art Hotel Amsterdam 3 star - 3* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1356023&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210081-0-2-EXT%3A223%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319412460613833&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1356023&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210081-0-2-EXT%3A223%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319412460613833&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/058111/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;WestCord Art Hotel Amsterdam 3 star - 3* - Amsterdam&amp;quot; title=&amp;quot;WestCord Art Hotel Amsterdam 3 star - 3* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Spaarndammerdijk 302</attribute>
+			<attribute type="text" name="description">Located 10 minutes from the city centre, WestCord Art Hotel Amsterdam provides modern accommodation and personalized services. It is a fine choice for the visitors of the exciting city of Amsterdam. Recently the rooms have been partly renovated. All chairs have been redecorated and the carpet is renewed. Breakfast costs: 17 euros pp/night. The hotel offers smoking rooms.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Emperor&amp;apos;s Canal (Keizersgracht)* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Linnaeushof* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Mint Tower* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Westerpark* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Athenaeum Illustre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Maison Descartes* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/058111/Exterior_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/058111/Exterior_G_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/058111/Restaurant_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;121.46</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1356023&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;210081-0-2-EXT:223$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Boutique Hotel Notting Hill - 4* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1356081&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000408175-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1356081&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000408175-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1077516_1077516/409927/100X75.jpeg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Boutique Hotel Notting Hill - 4* - Amsterdam&amp;quot; title=&amp;quot;Boutique Hotel Notting Hill - 4* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Westeinde 26</attribute>
+			<attribute type="text" name="description">The Boutique Hotel Notting Hill features elegant rooms all very well equipped and decorated with taste. This hotel boasts a unique restaurant and is approx. 650 metres from the Heineken Experience. The air-conditioned rooms at Boutique Hotel Notting Hill benefit from boutique-style decor and include a minibar plus tea and coffee making facilities. Each of the modern bathrooms is supplied with a robe and slippers.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1077516_1077516/409927/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1077516_1077516/409926/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1077516_1077516/409920/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;408.37</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1356081&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000408175-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Crowne Plaza City Centre - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1356140&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=2227-0-6-INT71918%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1356140&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=2227-0-6-INT71918%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/002227/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Crowne Plaza City Centre - 4*&amp;quot; title=&amp;quot;Crowne Plaza City Centre - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">NZ VOORBURGWAL 5</attribute>
+			<attribute type="text" name="description">The newly renovated Crowne Plaza Amsterdam City Centre Hotel is located right in the city center of Amsterdam. Central train station is within walking ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/002227/Lobby_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/002227/Exterior_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/002227/Meeting_room_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;224.20</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1356140&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;2227-0-6-INT71918$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Hotel Okura - 5* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1356240&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212863-0-2-EXT%3A134746%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-5-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1356240&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212863-0-2-EXT%3A134746%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/004706/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Hotel Okura  - 5* - Amsterdam&amp;quot; title=&amp;quot;Hotel Okura  - 5* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Ferdinand Bolstraat 333</attribute>
+			<attribute type="text" name="description">The location of the Hotel Okura Amsterdam on one of Amsterdam&amp;apos;s famous canals in the heart of Amsterdam, right next to the RAI convention Centre, about 10 minutes from the cultural area and 15 minutes from Schiphol Airport, makes this hotel the ideal choice for your stay in Amsterdam. Tastefully furnished rooms and suites, 2 bars of which one located on the 23rd floor with a fantastic view and 4 restaurants of which 2 are rewarded with Michelin stars!</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Van Gogh Museum: 1.3 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    The RAI Convention Centre: 1.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Leidseplein: 1.8 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Heineken Experience: 2.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Albert Cuyp market: 500.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Museum Square: 1.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/004706/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/004706/Recreation_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/004706/Pool_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;340.60</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1356240&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;212863-0-2-EXT:134746$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Dutch Design Hotel Artemis Amsterdam - 4* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1356293&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=211666-0-2-EXT%3A133527%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1356293&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=211666-0-2-EXT%3A133527%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/suburbarea_amsterdam/hotel/0/039020/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Dutch Design Hotel Artemis Amsterdam - 4* - Amsterdam&amp;quot; title=&amp;quot;Dutch Design Hotel Artemis Amsterdam - 4* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">John M Keynesplein 2</attribute>
+			<attribute type="text" name="description">An exceptional hotel located in the west of Amsterdam, just outside the ring road and close to Schiphol Airport. Amsterdam city centre within easy reach by public transport. From the lobby to the rooms, Dutch design is evident in all shapes and forms. In Dutch Design Hotel Artemis, flowers, windmills, clogs and cows become style icons of their own in a contemporary form, colour and context.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    RAI Convention Centre: 7.6 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Rijksmuseum* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Anne Frank House* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Oude Kerk* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Museum Amstelkring* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Begijnhof* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Van Gogh Museum* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Koninklijk Paleis* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Dam Square* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    National Maritime Museum* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Stedelijk Museum* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Flower market* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Hermitage Amsterdam* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/suburbarea_amsterdam/hotel/0/039020/Exterior_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/suburbarea_amsterdam/hotel/0/039020/Meeting_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/suburbarea_amsterdam/hotel/0/039020/Bar_Lounge_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;156.66</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1356293&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;211666-0-2-EXT:133527$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Top Secret hotel</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1356359&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1058708-1-2-EXT%3A134841%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-5-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1355605&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=information&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1058708-1-2-EXT%3A134841%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/tsh.png&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Luxury and Elegant Hotel in Central Amsterdam - 5* - Amsterdam&amp;quot; title=&amp;quot;Luxury and Elegant Hotel in Central Amsterdam - 5* - Amsterdam&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address"/>
+			<attribute type="text" name="description">An excellent hotel in the heart of Amsterdam. Do not miss this opportunity! On a perfect location for the theatres, shopping or visiting the famous sights of the capital. The property combines grandeur with elegance and comfort.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1"/>
+			<attribute type="text" name="photo2"/>
+			<attribute type="text" name="photo3"/>
+			<attribute type="text" name="price">&amp;#163;219.14</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1356359&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1058708-1-2-EXT:134841$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">NH Carlton Amsterdam - 4* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1356391&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210300-0-2-EXT%3A199%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1356391&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210300-0-2-EXT%3A199%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/011594/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;NH Carlton Amsterdam - 4* - Amsterdam&amp;quot; title=&amp;quot;NH Carlton Amsterdam - 4* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Vijzelstraat 4</attribute>
+			<attribute type="text" name="description">Located right in the city centre, about 5 minutes from the railway station and 25 minutes from Schiphol Airport, the deluxe NH Carlton puts Amsterdam&amp;apos;s famous museums, art galleries and tourist sights right on your doorstep. The hotel offers 218 luxury bedrooms which have been tastefully decorated and an exquisite Italian restaurant. Wi-Fi is also available in the hotel.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/210300_451/322972/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/210300_451/322967/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/210300_451/322975/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;176.52</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1356391&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;210300-0-2-EXT:199$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">NH Barbizon Palace - 5* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1356462&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212954-0-2-EXT%3A134841%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-5-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1356462&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212954-0-2-EXT%3A134841%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/010042/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;NH Barbizon Palace - 5* - Amsterdam&amp;quot; title=&amp;quot;NH Barbizon Palace - 5* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Prins Hendrikkade 59-72</attribute>
+			<attribute type="text" name="description">Conveniently located, opposite central station in the heart of old Amsterdam and easily accessible to famous attractions by foot or with public transportation. The hotel is an approx. 5 minute walk away from the Dam Square, Red Light District and Chinatown. The hotel is uniquely composed of nineteen seventeenth century houses featuring stunning architecture from the past and a fifteenth century chapel containing the hotel conference centre.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/010042/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/010042/Lobby_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/010042/Lobby_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;257.48</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1356462&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;212954-0-2-EXT:134841$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Park Plaza Victoria Amsterdam - 4* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1356524&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1056092-0-2-EXT%3A146453%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1356524&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1056092-0-2-EXT%3A146453%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/023642/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Park Plaza Victoria Amsterdam - 4* - Amsterdam&amp;quot; title=&amp;quot;Park Plaza Victoria Amsterdam - 4* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Damrak 1-5</attribute>
+			<attribute type="text" name="description">Located opposite the central station at the corner of the Damrak and in the heart of Amsterdam&amp;apos;s bustling shopping and business centre. This hotel, housed in an historic building with well appointed guestrooms definitely is an ideal place to stay. Majority of tourist attractions are in walking distance or within easy reach by tram and bus that stops in front of the hotel. The various restaurants, bars and relaxing wellness area including indoor swimming pool will make your stay more enjoyable.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/023642/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/023642/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/023642/Meeting_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;244.79</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1356524&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1056092-0-2-EXT:146453$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Best Western Apollo Museumhotel Amsterdam Centre - 3* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1356573&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210441-0-2-EXT%3A234%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1356573&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210441-0-2-EXT%3A234%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/081520/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Best Western Apollo Museumhotel Amsterdam Centre - 3* - Amsterdam&amp;quot; title=&amp;quot;Best Western Apollo Museumhotel Amsterdam Centre - 3* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">PC Hooftstraat 2</attribute>
+			<attribute type="text" name="description">Here in the city centre you will receive a warm welcome at the new Best Western Apollo Museumhotel. The hotel is non-smoking with facilities such as free Wi-Fi Internet, not to mention an elaborate breakfast, to ensure a comfortable stay. The area has something for everyone and serious shoppers and lovers of culture can let themselves go here. Business guests will also appreciate the location near the RAI trade and congress centre and the WTC. You are in the very heart of Amsterdam!</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Van Gogh Museum* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Museumplein* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Rijksmuseum* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Leidseplein* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/081520/Exterior_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/081520/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/081520/Restaurant_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;563.26</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1356573&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;210441-0-2-EXT:234$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Eden Amsterdam Manor Hotel - 4* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1356620&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1074535-0-2-EXT%3A163121%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1356620&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1074535-0-2-EXT%3A163121%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1074535_1074535/336048/100X75.jpeg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Eden Amsterdam Manor Hotel - 4* - Amsterdam&amp;quot; title=&amp;quot;Eden Amsterdam Manor Hotel - 4* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Linnaeusstraat, 89</attribute>
+			<attribute type="text" name="description">Opened on 10th June 2011, the brand new Eden Amsterdam Manor Hotel offers 125 luxurious rooms just minutes from the city centre of Amsterdam. Experience the history of the building combined with a trendy interior and luxurious facilities that will surely make you feel at home.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1074535_1074535/336048/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1074535_1074535/410766/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1074535_1074535/410770/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;158.42</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1356620&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1074535-0-2-EXT:163121$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Wyndham Apollo Hotel Amsterdam - 4* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1356666&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210589-0-2-EXT%3A224%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319412460613833&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1356666&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210589-0-2-EXT%3A224%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319412460613833&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/011291/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Wyndham Apollo Hotel Amsterdam - 4* - Amsterdam&amp;quot; title=&amp;quot;Wyndham Apollo Hotel Amsterdam - 4* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Apollolaan 2 formerly Golden Tulip Apollo Amsterdam</attribute>
+			<attribute type="text" name="description">A stone&amp;apos;s throw from the RAI, the WTC and the major tourist attractions of the capital such as the famous museums and the distinguished shopping areas, you will find the hotel situated in a haven of peace. The hotel has 223 rooms and suites. It has specious conference facilities, terraces overlooking the water, an ambient bar, a culinary restaurant La Sirene, and abundant private parking spaces.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/011291/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/011291/Exterior_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/011291/Bar_Lounge_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;215.72</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1356666&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;210589-0-2-EXT:224$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Bilderberg Garden Hotel - 5* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1356737&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000283189-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-5-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1356737&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000283189-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/2/203521/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Bilderberg Garden Hotel - 5* - Amsterdam&amp;quot; title=&amp;quot;Bilderberg Garden Hotel - 5* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Dijsselhofplantsoen 7</attribute>
+			<attribute type="text" name="description">In the fashionable heart of sparkling Amsterdam, you will find the 5-star Bilderberg Garden Hotel. The new ambiance in the hotel describes itself as casual and elegant. All restyled and spacious hotel rooms have an interior that shows an understanding for style and taste. The Bilderberg Garden Hotel is winner of the Hotel of the Year elections 2010 in the Netherlands.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Van Gogh Museum* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    RAI Exhibition Centre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Concert Hall* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    World Trade Centre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Rijksmuseum* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/2/203521/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/2/203521/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/2/203521/Bar_Lounge_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;202.78</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1356737&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000283189-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Grand Hotel Amrath Amsterdam - 5* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1356807&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=640745-0-2-EXT%3A142312%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-5-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1356807&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=640745-0-2-EXT%3A142312%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/063134/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Grand Hotel Amrath Amsterdam - 5* - Amsterdam&amp;quot; title=&amp;quot;Grand Hotel Amrath Amsterdam - 5* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Prins Hendrikkade 108</attribute>
+			<attribute type="text" name="description">The hotel is located in the monumental Shipping House, facing Central Station and in the heart of the city centre. A world of luxury and Art, offering spacious rooms with warm colours and high ceilings, modern comforts such as complimentary wireless Internet and mini-bar. The hotel features the Seven Seas Restaurant, a lounge-bar and a beautiful wellness centre with swimming pool. All tourist attractions are within walking distance or easily reached by public transport, opposite the hotel.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Dam: 700.0 Metre* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/063134/Exterior_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/063134/Exterior_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/063134/Pool_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;316.84</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1356807&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;640745-0-2-EXT:142312$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">NH Grand Hotel Krasnapolsky - 5* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1356859&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212945-0-2-EXT%3A134832%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-5-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1356859&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212945-0-2-EXT%3A134832%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/022428/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;NH Grand Hotel Krasnapolsky - 5* - Amsterdam&amp;quot; title=&amp;quot;NH Grand Hotel Krasnapolsky - 5* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Dam 9 formerly Grand Hotel Krasnapolsky</attribute>
+			<attribute type="text" name="description">Located in the heart of Amsterdam at the Dam Square opposite the Royal Palace, this hotel is a phenomenon! Grand Hotel Krasnapolsky is located in a historical building dating back to 1865 and is the largest five-star hotel in the Netherlands. The buffet breakfast is served every morning in the Summer Garden and glass-roofed Winter Garden. Central station and most tourist attractions are within walking distance. All the rest can be easily reached by tram which stops in front of the hotel.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/022428/Exterior_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/022428/Exterior_D_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/022428/Exterior_D_3.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;273.68</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1356859&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;212945-0-2-EXT:134832$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Radisson BLU Hotel Amsterdam - 5* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1356906&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1056392-0-2-EXT%3A146723%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-5-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1356906&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1056392-0-2-EXT%3A146723%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/018408/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Radisson BLU Hotel Amsterdam - 5* - Amsterdam&amp;quot; title=&amp;quot;Radisson BLU Hotel Amsterdam - 5* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Rusland 17</attribute>
+			<attribute type="text" name="description">Peaceful, located in the middle between Dam Square and Rembrandst Square surrounded by canals. A beautiful atrium hotel that had recently some of its rooms renovated. The hotel is situated close to all tourist attractions. Guests have access to the hotel&amp;apos;s fitness facilities, De Palmboom restaurant and the Pastorie Bar. There is a free Wi-Fi connection available through the hotel.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/018408/Lobby_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/018408/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/018408/Bar_Lounge_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;348.98</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1356906&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1056392-0-2-EXT:146723$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Rembrandt Classic - 3* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1356969&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=217530-0-2-EXT%3A139499%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1356969&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=217530-0-2-EXT%3A139499%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/084195/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Rembrandt Classic - 3* - Amsterdam&amp;quot; title=&amp;quot;Rembrandt Classic - 3* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Herengracht 255</attribute>
+			<attribute type="text" name="description">Set in a 17th and 19th century monumental building right on the city&amp;apos;s most prestigious canals. This hotel features a cosy bar lounge and a breakfast room. The friendly and attentive staff will help you find your way around this beautiful city. Rembrandt Classic is located in the heart of Amsterdam between the Herengracht and the Singel, near Dam Square.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/084195/Lobby_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/084195/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/084195/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;117.50</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1356969&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;217530-0-2-EXT:139499$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">NH City Centre Amsterdam - 3* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1357017&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=213188-0-2-EXT%3A135104%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1357017&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=213188-0-2-EXT%3A135104%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/038700/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;NH City Centre Amsterdam - 3* - Amsterdam&amp;quot; title=&amp;quot;NH City Centre Amsterdam - 3* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Spuistraat 288-292</attribute>
+			<attribute type="text" name="description">Located at an ideal location in the middle of the heart of Amsterdam overlooking Single canal. Exactly in the middle between Leidseplein, Rembrandtplein and Damsquare, The famous flower market is nearby, as well as the canals and Jordaan area. Spread over five authentic 17th century buildings the hotel is equiped with all modern facilities. Enjoy a world-class meal in a historic setting at the Restaurant d&amp;apos;Vijff Vlieghen, famous for its mastery of New Dutch cuisine.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/038700/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/038700/Restaurant_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/038700/Restaurant_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;176.52</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1357017&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;213188-0-2-EXT:135104$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Top Secret hotel</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1357084&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=937512-1-2-EXT%3A135028%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1355605&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=information&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=937512-1-2-EXT%3A135028%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/tsh.png&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Elegant Hotel in the heart of Amsterdam - 4* - Amsterdam&amp;quot; title=&amp;quot;Elegant Hotel in the heart of Amsterdam - 4* - Amsterdam&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Check-in:</attribute>
+			<attribute type="text" name="description">This grand and elegant four-star property is located in the heart of Amsterdam. The modern rooms and the high quality service will make your stay unforgetable. Breakfast and city tax are not included in the prices.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1"/>
+			<attribute type="text" name="photo2"/>
+			<attribute type="text" name="photo3"/>
+			<attribute type="text" name="price">&amp;#163;169.67</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1357084&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;937512-1-2-EXT:135028$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Eden Hotel Amsterdam - 3* - Amsterdam</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1357141&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=211065-0-2-EXT%3A132919%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1357141&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=211065-0-2-EXT%3A132919%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=amsterdam&amp;amp;amp;numRooms=1&amp;amp;amp;dest=AMS&amp;amp;amp;_gsid=S72722479-T094V052906344607079150730794159741179&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412460613833&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/031449/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Eden Hotel Amsterdam - 3* - Amsterdam&amp;quot; title=&amp;quot;Eden Hotel Amsterdam - 3* - Amsterdam&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">99</attribute>
+			<attribute type="text" name="address">Amstel, 144</attribute>
+			<attribute type="text" name="description">The Eden Hotel Amsterdam is located around the corner of the vibrant Rembrandt Square in the city centre, the number one nightlife area with its pavement cafes, restaurants, trendy bars and clubs. On the other side it is surrounded by the charming canals and Amstel river area with Waterlooplein, Theater Carre and Hermitage museum. Most tourist attractions are reachable on walking distance (DamSquare, Flower market, Heineken Brewery and Kalverstraat), others by tram.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/031449/Lobby_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/031449/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/amsterdam/hotel/0/031449/Bar_Lounge_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;119.70</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1357141&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;211065-0-2-EXT:132919$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;amsterdam&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;AMS&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412460613833&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+	</output-objects>
+</rest-result>

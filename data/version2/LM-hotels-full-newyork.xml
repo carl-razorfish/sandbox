@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rest-result executionTime="378681" statusCode="200" executionId="254d2a4c000003a4">
+	<output-objects>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Wellington Hotel - 3*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=657716&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=8667-0-6-UTE00004%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319412280603257&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=657716&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=8667-0-6-UTE00004%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319412280603257&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/008667/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Wellington Hotel - 3*&amp;quot; title=&amp;quot;Wellington Hotel - 3*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">871 7TH AVENUE - 55TH Street</attribute>
+			<attribute type="text" name="description">Wellington Hotel is located at 55th Street and 7th Avenue, a block from Broadway and Carnegie Hall. Centrally located in Midtown, the Wellington ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/008667/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/008667/Restaurant_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/008667/Guest_room_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;309.63</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;657716&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;8667-0-6-UTE00004$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Belvedere Hotel - 3*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=657768&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=42364-0-6-UNI00034%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319412280603257&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=657768&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=42364-0-6-UNI00034%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319412280603257&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/042364/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Belvedere Hotel - 3*&amp;quot; title=&amp;quot;Belvedere Hotel - 3*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">319 WEST 48TH STREET</attribute>
+			<attribute type="text" name="description">The Belvedere Hotel is situated in the heart of Manhattan&amp;apos;s Theater District, three blocks from Rockefeller Center, and approximately eight miles from ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/042364/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/042364/Guest_room_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/042364/Health_club_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;424.56</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;657768&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;42364-0-6-UNI00034$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Westin New York Times Square - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=657818&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=7021-0-6-STA71975%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319412280603257&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=657818&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=7021-0-6-STA71975%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319412280603257&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/007021/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Westin New York Times Square - 4*&amp;quot; title=&amp;quot;Westin New York Times Square - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">270 WEST 43RD STREET</attribute>
+			<attribute type="text" name="description">Welcome to a place where time ceases to tick and begins to flow. Where every sense is soothed and energy is restored. Where your well-being reigns supreme. ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/007021/Exterior_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/007021/Guest_room_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/007021/Suite_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;646.08</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;657818&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;7021-0-6-STA71975$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">The Waldorf=Astoria - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=657867&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=9129-0-1-TRA00141%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=657867&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=9129-0-1-TRA00141%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/009129/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;The Waldorf=Astoria - 4*&amp;quot; title=&amp;quot;The Waldorf=Astoria - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">301 PARK AVE</attribute>
+			<attribute type="text" name="description">Waldorf Astoria is a renowned Art Deco landmark and New York luxury hotel in midtown Manhattan. It&amp;apos;s located 13 miles from LaGuardia Airport. Local attractions ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/009129/Bar_Lounge_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/009129/Ballroom_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/009129/Exterior_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;682.28</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;657867&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;9129-0-1-TRA00141$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Hotel Pennsylvania - 2*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=657907&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=38668-0-6-SYN00002%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-2-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=657907&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=38668-0-6-SYN00002%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/038668/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Hotel Pennsylvania - 2*&amp;quot; title=&amp;quot;Hotel Pennsylvania - 2*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">401 7TH AVENUE</attribute>
+			<attribute type="text" name="description">Hotel Pennsylvania, a budget / tourist class hotel is located approximately 15 miles from LaGuardia International Airport and directly opposite Madison ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/038668/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/038668/Guest_room_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/038668/Lobby_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;263.04</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;657907&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;38668-0-6-SYN00002$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Affinia Shelburne - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=657941&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=18367-0-6-AFF00002%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=657941&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=18367-0-6-AFF00002%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/018367/Guest_room_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Affinia Shelburne - 4*&amp;quot; title=&amp;quot;Affinia Shelburne - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">303 LEXINGTON AVE</attribute>
+			<attribute type="text" name="description">The Affinia Shelburne Hotel sits amid the 19th century brownstones of historic Murray Hill. With 323 recently renovated guest rooms and suites, the Affinia ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/018367/Lobby_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/018367/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/018367/Suite_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;365.72</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;657941&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;18367-0-6-AFF00002$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Sheraton New York Hotel and Towers - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=657971&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=668-0-6-STA71975%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=657971&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=668-0-6-STA71975%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/000668/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Sheraton New York Hotel and Towers - 4*&amp;quot; title=&amp;quot;Sheraton New York Hotel and Towers - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">811 7TH AVE AND 53RD STREET NEW YORK NY US 10019</attribute>
+			<attribute type="text" name="description">Connect to a better stay at Sheraton New York Hotel &amp;amp; Towers. Ideally situated a few blocks from 5th Avenue shopping, Broadway theaters, Rockefeller Center, ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/000668/Exterior_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/000668/Exterior_F_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/000668/Guest_room_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;588.38</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;657971&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;668-0-6-STA71975$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Affinia Manhattan - 3*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658019&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=18371-0-6-AFF00002%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658019&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=18371-0-6-AFF00002%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/018371/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Affinia Manhattan - 3*&amp;quot; title=&amp;quot;Affinia Manhattan - 3*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">371 7TH Avenue</attribute>
+			<attribute type="text" name="description">The Affinia Manhattan is situated amongst some of the most exciting attractions New York City has to offer, just steps away from Madison Square Garden, ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/018371/Exterior_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/018371/Exterior_F_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/018371/Lobby_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;323.78</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658019&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;18371-0-6-AFF00002$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Hilton New York - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658078&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=9128-0-6-HIL71894%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658078&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=9128-0-6-HIL71894%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/009128/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Hilton New York - 4*&amp;quot; title=&amp;quot;Hilton New York - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">1335 AVENUE OF THE AMERICAS</attribute>
+			<attribute type="text" name="description">The Hilton New York is located at Rockefeller Center, one block from Fifth Avenue shopping, and approximately 18 miles from LaGuardia International Airport. ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/009128/Exterior_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/009128/Lobby_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/009128/Guest_room_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;501.54</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658078&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;9128-0-6-HIL71894$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">W New York - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658126&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=28092-0-6-STA71975%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658126&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=28092-0-6-STA71975%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/028092/Guest_room_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;W New York - 4*&amp;quot; title=&amp;quot;W New York - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">541 LEXINGTON AVE</attribute>
+			<attribute type="text" name="description">W New York is close to Grand Central Terminal, Times Square, Rockefeller Center, the Theater District and world-class shopping. Just steps away from anything ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/028092/Lobby_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/028092/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/028092/Health_club_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;660.38</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658126&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;28092-0-6-STA71975$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Royalton Hotel - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658174&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=19926-0-6-VAN00016%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658174&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=19926-0-6-VAN00016%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/019926/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Royalton Hotel - 4*&amp;quot; title=&amp;quot;Royalton Hotel - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">44 WEST 44TH STREET</attribute>
+			<attribute type="text" name="description">Sophisticated New York style on West 44th Street, the Royalton Hotel is 1 Block from the Theater District. This see-and-be-seen New York hotel, originally ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/019926/Exterior_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/019926/Lobby_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/019926/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;670.62</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658174&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;19926-0-6-VAN00016$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Eastgate Tower Hotel - 3*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658201&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=18370-0-6-AFF00002%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658201&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=18370-0-6-AFF00002%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/018370/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Eastgate Tower Hotel - 3*&amp;quot; title=&amp;quot;Eastgate Tower Hotel - 3*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">222 EAST 39TH STREET</attribute>
+			<attribute type="text" name="description">Eastgate Tower, a Tripadvisor 2011 Certificate of Excellence award winner, combines the charm of residential Murray Hill with the convenience of midtown ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/018370/Exterior_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/018370/Lobby_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/018370/Guest_room_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;306.78</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658201&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;18370-0-6-AFF00002$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">DoubleTree Suites by Hilton New York City - Times Square - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658227&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=25088-0-6-HIL71894%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658227&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=25088-0-6-HIL71894%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/025088/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;DoubleTree Suites by Hilton New York City - Times Square - 4*&amp;quot; title=&amp;quot;DoubleTree Suites by Hilton New York City - Times Square - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">1568 BROADWAY</attribute>
+			<attribute type="text" name="description">Located in the heart of Times Square, the DoubleTree Suites by Hilton New York City - Times Square is half a block from Broadway, two blocks from Rockefeller ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/025088/Lobby_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/025088/Restaurant_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/025088/Suite_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;387.18</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658227&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;25088-0-6-HIL71894$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Stay. - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658257&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=19137-0-6-IND71851%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658257&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=19137-0-6-IND71851%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/019137/Guest_room_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Stay. - 4*&amp;quot; title=&amp;quot;Stay. - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">157 W 47th Street</attribute>
+			<attribute type="text" name="description">Stay hotel is perfectly located in the geographic center point of Manhattan at 47th Street and 7th Avenue of Times Square, close to the Theatre District, ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/019137/Lobby_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/019137/Bar_Lounge_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/019137/Guest_room_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;393.20</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;19137-0-6-IND71851$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Hudson, A Morgans Original - 3*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658293&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=53729-0-6-VAN00016%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658293&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=53729-0-6-VAN00016%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/053729/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Hudson, A Morgans Original - 3*&amp;quot; title=&amp;quot;Hudson, A Morgans Original - 3*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">356 WEST 58TH STREET</attribute>
+			<attribute type="text" name="description">Created by Philippe Starck, the Hudson is a block from the Time Warner Center&amp;apos;s shops and restaurants, two blocks from Central Park, and approximately ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/053729/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/053729/Exterior_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/053729/Exterior_E_3.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;531.37</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658293&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;53729-0-6-VAN00016$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Crowne Plaza Time Sq Manhattan - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658323&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=3391-0-6-INT71918%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658323&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=3391-0-6-INT71918%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/manhattan/hotel/0/003391/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Crowne Plaza Time Sq Manhattan - 4*&amp;quot; title=&amp;quot;Crowne Plaza Time Sq Manhattan - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">1605 BROADWAY</attribute>
+			<attribute type="text" name="description">Times Square, always New York&amp;apos;s most exciting scene, seems all new now that the Crowne Plaza Times Square has reinvented itself. Come check out our renovation, ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/manhattan/hotel/0/003391/Lobby_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/manhattan/hotel/0/003391/Restaurant_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/manhattan/hotel/0/003391/Other_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;555.32</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658323&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;3391-0-6-INT71918$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Holiday Inn Midtown 57th Street - 3*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658365&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=4820-0-6-INT71918%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658365&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=4820-0-6-INT71918%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/004820/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Holiday Inn Midtown 57th Street - 3*&amp;quot; title=&amp;quot;Holiday Inn Midtown 57th Street - 3*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">440 WEST 57TH STREET</attribute>
+			<attribute type="text" name="description">Centrally located on Manhattan&amp;apos;s exciting West Side, the Holiday Inn Midtown is just three short blocks from Central Park. New York City&amp;apos;s premier green ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/004820/Meeting_room_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/004820/Guest_room_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/004820/Pool_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;406.30</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658365&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;4820-0-6-INT71918$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Radisson Martinique on Broadway - 3*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658422&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=19021-0-1-CAR71829%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658422&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=19021-0-1-CAR71829%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/019021/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Radisson Martinique on Broadway - 3*&amp;quot; title=&amp;quot;Radisson Martinique on Broadway - 3*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">49 WEST 32ND STR</attribute>
+			<attribute type="text" name="description">The Radisson Martinique Broadway is situated across from Greeley Square, less than a mile from the Empire State Building, and approximately nine miles ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/019021/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/019021/Guest_room_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/019021/Lobby_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;413.56</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658422&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;19021-0-1-CAR71829$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">St Giles The Court - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658481&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=28090-0-6-UTE00004%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658481&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=28090-0-6-UTE00004%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/028090/Guest_room_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;St Giles The Court - 4*&amp;quot; title=&amp;quot;St Giles The Court - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">130 EAST 39TH STREET BETWEEN LEXINGTON AND PARK AVE</attribute>
+			<attribute type="text" name="description">The St Giles The Court offers upscale accommodations in Midtown Manhattan, about three blocks from Grand Central Station, and six blocks from the Empire ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/028090/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/028090/Suite_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/028090/Meeting_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;465.41</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658481&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;28090-0-6-UTE00004$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">The Manhattan Time Square Htl - 3*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658525&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=660-0-1-TRA00141%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658525&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=660-0-1-TRA00141%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/000660/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;The Manhattan Time Square Htl - 3*&amp;quot; title=&amp;quot;The Manhattan Time Square Htl - 3*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">790 7TH AVE AT 51ST STREET</attribute>
+			<attribute type="text" name="description">In a city of millions, The Manhattan at Times Square, a Starwood Hotel is a source of familiar comfort. Broadway theaters, Fifth Avenue shopping, Central ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/000660/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/000660/Guest_room_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/000660/Lobby_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;516.86</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658525&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;660-0-1-TRA00141$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">New York Marriott Marquis Times Square - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658560&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=13111-0-6-MAR71958%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658560&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=13111-0-6-MAR71958%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/013111/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;New York Marriott Marquis Times Square - 4*&amp;quot; title=&amp;quot;New York Marriott Marquis Times Square - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">1535 BROADWAY</attribute>
+			<attribute type="text" name="description">Located in the heart of Broadway and Times Square, the New York Marriott Marquis offers modern amenities in a central location. The New York Marriott ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/013111/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/013111/Exterior_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/013111/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;653.28</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658560&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;13111-0-6-MAR71958$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Mondrian Soho - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658615&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=34443-0-6-VAN00016%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658615&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=34443-0-6-VAN00016%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/034443/Guest_room_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Mondrian Soho - 4*&amp;quot; title=&amp;quot;Mondrian Soho - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">9 CROSBY STREET</attribute>
+			<attribute type="text" name="description">Mondrian in SoHo, opening February 2011, will be the third Mondrian and the company&amp;apos;s downtown debut. Designed by Benjamin Noriega Ortiz, the 270-room ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/034443/Guest_room_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/034443/Amenity_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/0/034443/Suite_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;682.18</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658615&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;34443-0-6-VAN00016$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">The London NYC - 5*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658636&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=15023-0-6-IHO00001%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319412280603257&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-5-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658636&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=15023-0-6-IHO00001%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319412280603257&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/015023/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;The London NYC - 5*&amp;quot; title=&amp;quot;The London NYC - 5*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">151 WEST 54TH STREET</attribute>
+			<attribute type="text" name="description">Guided from concept to realization from an audacious team of talent, The London NYC has transformed the former RIHGA Royal for the most discerning modern ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/015023/Exterior_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/015023/Lobby_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/015023/Lobby_D_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;768.90</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658636&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;15023-0-6-IHO00001$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Four Points by Sheraton Midtown Times Square - 3*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658705&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=109835-0-6-STA71975%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658705&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=109835-0-6-STA71975%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319412280603257&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/1/109835/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Four Points by Sheraton Midtown Times Square - 3*&amp;quot; title=&amp;quot;Four Points by Sheraton Midtown Times Square - 3*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">326 WEST 40TH STREET NEW YORK NY US 10018</attribute>
+			<attribute type="text" name="description">The Four Points by Sheraton Midtown Times Square is situated within easy reach of Broadway, Jacob Javitz Center, Madame Tussauds Wax Museum, St. Patrick&amp;apos;s ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/1/109835/Exterior_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/1/109835/Guest_room_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelpn.com/images/new_york/hotel/1/109835/Amenity_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;531.92</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658705&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;109835-0-6-STA71975$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Intercontinental Nyc Barclay - 4*</attribute>
+			<attribute type="text" name="phone">0844 873 8582</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=658752&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1120-0-6-INT71918%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319412280603257&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=658752&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1120-0-6-INT71918%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=newyork&amp;amp;amp;numRooms=1&amp;amp;amp;dest=NYC&amp;amp;amp;_gsid=S72722479-T081V050804021807848358430353153761896&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319412280603257&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/001120/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Intercontinental Nyc Barclay - 4*&amp;quot; title=&amp;quot;Intercontinental Nyc Barclay - 4*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">250</attribute>
+			<attribute type="text" name="address">111 East 48th Street</attribute>
+			<attribute type="text" name="description">Fully restored to its pre-war glamour, The Intercontinental New York Barclay is an award winning hotel that welcomes guests with residential warmth and ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/001120/Guest_room_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/001120/Suite_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/new_york/hotel/0/001120/Exterior_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;620.04</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;658752&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1120-0-6-INT71918$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;newyork&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;NYC&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319412280603257&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+	</output-objects>
+</rest-result>
