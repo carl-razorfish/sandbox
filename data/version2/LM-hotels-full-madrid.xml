@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rest-result executionTime="304839" statusCode="200" executionId="254d2a4c000003bb">
+	<output-objects>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Top Secret hotel</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1756488&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1066639-1-2-EXT%3A146028%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1756434&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=information&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1066639-1-2-EXT%3A146028%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/tsh.png&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Elegant hotel in Castellana-Serrano area - 4* - Madrid&amp;quot; title=&amp;quot;Elegant hotel in Castellana-Serrano area - 4* - Madrid&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address"/>
+			<attribute type="text" name="description">Located between Paseo de la castellana and Salamanca Quartier, this elegant hotel offers spacious guestrooms all equipped with air conditioning, mini-bar, free Wi-Fi and safe.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1"/>
+			<attribute type="text" name="photo2"/>
+			<attribute type="text" name="photo3"/>
+			<attribute type="text" name="price">&amp;#163;87.08</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1756488&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1066639-1-2-EXT:146028$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">ME Madrid Reina Victoria - 4* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1756526&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=213017-0-2-EXT%3A134925%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1756526&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=213017-0-2-EXT%3A134925%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/015706/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;ME Madrid Reina Victoria - 4* - Madrid&amp;quot; title=&amp;quot;ME Madrid Reina Victoria - 4* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">Plaza De Santa Ana, 14</attribute>
+			<attribute type="text" name="description">ME Madrid is a luxury design hotel, located in historic Plaza Santa Ana. It offers elegant rooms with plasma TV and hydromassage shower. The hotel is 300 metres from the Puerta del Sol. Each room has an iPod dock, adjustable lighting and climate control plus a safety deposit box with integrated laptop charger. Additional hotel facilities include free Wi-Fi access, 24hr room service, ice dispenser on each floor and a 24hr fitness centre.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Shopping Streets* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    The Prado Museum* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Almudena Cathedral* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Theatres* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Reina Sofia Museum* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Plaza Mayor: 0.25 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Royal Palace* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Night Clubs* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Puerta del Sol* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/015706/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/015706/Lobby_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/015706/Restaurant_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;369.50</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1756526&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;213017-0-2-EXT:134925$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Top Secret hotel</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1756581&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1064198-1-2-EXT%3A153389%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-5-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1756434&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=information&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1064198-1-2-EXT%3A153389%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/tsh.png&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Upscale Hotel Madrid - Great location &amp;amp;amp; service - 5* - Madrid&amp;quot; title=&amp;quot;Upscale Hotel Madrid - Great location &amp;amp;amp; service - 5* - Madrid&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address"/>
+			<attribute type="text" name="description">Situated in one of Madrid&amp;apos;s most famous thoroughfares, this high quality hotel offers exclusive rooms and suites, as well as several meeting rooms, a restaurant and a fitness &amp;amp; health centre. Not only rooms and suites are well equipped to make your stay the most comfortable but dedicated staff look after even the smallest details.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1"/>
+			<attribute type="text" name="photo2"/>
+			<attribute type="text" name="photo3"/>
+			<attribute type="text" name="price">&amp;#163;359.05</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1756581&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1064198-1-2-EXT:153389$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Husa Princesa - 4* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1756625&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=216727-0-2-EXT%3A138815%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1756625&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=216727-0-2-EXT%3A138815%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/3/391bf8c01f/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Husa Princesa - 4* - Madrid&amp;quot; title=&amp;quot;Husa Princesa - 4* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">Princesa, 40</attribute>
+			<attribute type="text" name="description">The Husa Princesa hotel is located in the entertainment area of Madrid, walking distance to Plaza Espa&amp;#241;a and Gran Via and is housed in the same complex as the El Corte Ingles department store. It offers free use of a 1700m&amp;#8835;2; sports centre with gym and a small indoor pool. Private parking is available at an extra cost and offers direct access to rooms. Arg&amp;#252;elles Metro Station is directly outside the hotel and is on 3 different lines. Rooms at the Husa Princesa are spacious and classic.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/3/391bf8c01f/Lobby_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/3/391bf8c01f/Lobby_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/3/391bf8c01f/Lobby_E_3.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;133.68</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1756625&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;216727-0-2-EXT:138815$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Top Secret hotel</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1756663&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1056313-1-2-EXT%3A4535%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1756434&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=information&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1056313-1-2-EXT%3A4535%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/tsh.png&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Great designed hotel in Gran Via. - 4* - Madrid&amp;quot; title=&amp;quot;Great designed hotel in Gran Via. - 4* - Madrid&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">Check-in:</attribute>
+			<attribute type="text" name="description">In the well known Gran Via, this hotel is a a fantastic choice if you want to stay for the weekend in the capital. Surrounded by boutiques, shops and restaurants it has a great location near to all the famous attractions. *The hotel offers air conditioning during summer.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1"/>
+			<attribute type="text" name="photo2"/>
+			<attribute type="text" name="photo3"/>
+			<attribute type="text" name="price">&amp;#163;137.91</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1756663&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1056313-1-2-EXT:4535$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Husa Paseo del Arte - 4* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1756708&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212836-0-2-EXT%3A134717%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1756708&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212836-0-2-EXT%3A134717%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/058296/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Husa Paseo del Arte  - 4* - Madrid&amp;quot; title=&amp;quot;Husa Paseo del Arte  - 4* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">Atocha, 123</attribute>
+			<attribute type="text" name="description">An avant-garde hotel, opened in 2006 and just 100 metres from Puerta de Atocha train station. Placed at The Gold Triangle, a unique cultural place surrounded by the Prado Museum, the Thyssen Bornemisza and Reina Sofia Art Museum. 260 natural daylight and minimal d&amp;#233;cor lay-out bedrooms and suites, all equipped with the latest technologies. A very light full breakfast room, restaurant, fitness room and rooftop solarium, room service, large car park and Wi-Fi in Husa Paseo del Arte.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Mayor Square: 1.5 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Art Centre Reina Sofia: 0.1 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    &amp;amp;quot;El Prado&amp;amp;quot; Museum: 0.8 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    The Royal Conservatory of Music: 0.5 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Congress Palace of Castellana: 2.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Puerta del Sol: 1.5 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    IFEMA: 15.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Warner Bros: 23.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Casa de Campo: 10.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/058296/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/058296/Lobby_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/058296/Guest_room_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;142.05</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1756708&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;212836-0-2-EXT:134717$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Petit Palace Londres - 3* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1756748&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000408250-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1756748&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000408250-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/034699/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Petit Palace Londres - 3* - Madrid&amp;quot; title=&amp;quot;Petit Palace Londres - 3* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">Galdo, 2</attribute>
+			<attribute type="text" name="description">It is a charming city hotel found in the heart of Madrid City Centre. All rooms have personal computers and free Wi-Fi connection, hydro massage showers and free safety boxes. Recommended for those who want to enjoy the best of Madrid and its main attractions. The Petit Palace Londres hotel was renovated in 2001 and is located in an emblematic building. The rooms are tastefully decorated and come equipped.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/034699/Other_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/034699/Other_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/034699/Other_E_3.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;140.72</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1756748&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000408250-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Hilton Madrid Airport - 5*</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1756778&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=51291-0-6-HIL71893%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-5-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1756778&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=51291-0-6-HIL71893%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/051291/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Hilton Madrid Airport - 5*&amp;quot; title=&amp;quot;Hilton Madrid Airport - 5*&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">Avenida de la Hispanidad 2-4</attribute>
+			<attribute type="text" name="description">The Hilton Madrid Airport is sitauted just minutes from the vibrant city centre. One can take the complimentary shuttle bus from Madrid Barajas International ...</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/051291/Lobby_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/051291/Guest_room_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/051291/Pool_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;237.50</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1756778&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;51291-0-6-HIL71893$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Apartamentos H2 Atocha - 1* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1756836&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1074916-0-2-EXT%3A163496%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-1-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1756836&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1074916-0-2-EXT%3A163496%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1074916_14/377445/100X75.jpeg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Apartamentos H2 Atocha - 1* - Madrid&amp;quot; title=&amp;quot;Apartamentos H2 Atocha - 1* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">C/ Doctor Piga, 15</attribute>
+			<attribute type="text" name="description">In Lavapies, one of the most traditional, colourful and lively neighborhoods of the capital city of Madrid, you can find the H2 Atocha complex of apartments. Ideally located, the property is very close to the major attractions of the city including Plaza Mayor, Puerta del Sol, Retiro Park and the famous museums of Reina Sofia and Prado.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1074916_14/377445/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1074916_14/377446/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1074916_14/377447/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;94.99</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1756836&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1074916-0-2-EXT:163496$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Vincci Capitol Hotel - 4* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1756867&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=217657-0-2-EXT%3A139626%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1756867&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=217657-0-2-EXT%3A139626%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/070305/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Vincci Capitol Hotel - 4* - Madrid&amp;quot; title=&amp;quot;Vincci Capitol Hotel - 4* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">Gran Via, 41 Old Quarter</attribute>
+			<attribute type="text" name="description">In the famous Gran Via of Madrid, in one of the most emblematic buildings. It has a terrace on the roof with fantastic views. Stylish and designed hotel close to Puerta del Sol and Plaza Mayor. Theatres, museums, shops and business areas are all close. Vincci Capitol Hotel combines elegant and designed accommodation with excellent location and fantastic views offered from the lounge bar. It also features the Nammu Spa centre including an ice fountain and massage service.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/070305/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/070305/Other_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/070305/Restaurant_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;145.33</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1756867&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;217657-0-2-EXT:139626$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Top Secret hotel</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1756905&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1066013-1-2-EXT%3A155063%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1756434&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=information&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1066013-1-2-EXT%3A155063%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/tsh.png&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Spacious rooms  next to Santiago Bernabeu stadium  - 4* - Madrid&amp;quot; title=&amp;quot;Spacious rooms  next to Santiago Bernabeu stadium  - 4* - Madrid&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">Check-in:</attribute>
+			<attribute type="text" name="description">The fantastic location and accessibility of the hotel makes it the ideal base whether for families or business. Real Madrid&amp;apos;s Santiago Bernabeu stadium is in sight of the hotel. Situated within easy access &amp;amp; connections to all major city ring roads and 20 minutes away from International Airport Madrid Barajas. All the rooms are highly equipped with air conditioning, satellite &amp;amp; pay TV, and ADSL Internet connection. In summer you can cool down in our rooftop pool.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1"/>
+			<attribute type="text" name="photo2"/>
+			<attribute type="text" name="photo3"/>
+			<attribute type="text" name="price">&amp;#163;234.14</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1756905&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1066013-1-2-EXT:155063$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Petit Palace Savoy Alfonso XII - 4* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1756930&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000408866-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1756930&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000408866-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1077680_1077680/409868/100X75.jpeg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Petit Palace Savoy Alfonso XII - 4* - Madrid&amp;quot; title=&amp;quot;Petit Palace Savoy Alfonso XII - 4* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">18, Alfonso XII street</attribute>
+			<attribute type="text" name="description">The 4-star Petit Palace Savoy Alfonso XII is located in Alfonso XII street, in the impressive Retiro; just a few steps away from the popular Puerta del Alcala, Plaza de Cibeles and Paseo del Prado. This boutique hotel has been totally refurbished with the latest design and technological advances, while retaining its structure and emblematic facade.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1077680_1077680/409868/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1077680_1077680/409869/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1077680_1077680/409870/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;255.05</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1756930&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000408866-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Confortel Pio XII - 4* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1756969&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=211902-0-2-EXT%3A133761%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1756969&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=211902-0-2-EXT%3A133761%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/060674/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Confortel Pio XII  - 4* - Madrid&amp;quot; title=&amp;quot;Confortel Pio XII  - 4* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">Avenida de Pio XII, 77</attribute>
+			<attribute type="text" name="description">Confortel Pio XII is a modern, convenient hotel on Avenida del Pio XII in Madrid&amp;apos;s business district with easy access to Barajas Airport. Enjoy being the guest here with contemporary surroundings, attentive service and comfortable rooms. The hotel includes free WiFi and free internet in the lobby.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/060674/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/060674/Exterior_D_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/060674/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;712.40</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1756969&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;211902-0-2-EXT:133761$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Confortel Atrium - 4* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1757035&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1056958-0-2-EXT%3A147239%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1757035&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1056958-0-2-EXT%3A147239%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/012412/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Confortel Atrium - 4* - Madrid&amp;quot; title=&amp;quot;Confortel Atrium - 4* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">Emilio Vargas</attribute>
+			<attribute type="text" name="description">New and extraordinary, with an avant garde architectural design, Confortel Atrium is located in the new business and development area, in the east of Madrid. It has 195 rooms, bar, restaurant, internet point, gym, VIP area, free Wi-Fi in communal areas and rooms. Free mineral water available in the rooms. There are 5 convention rooms of 380m2.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/012412/Exterior_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/012412/Restaurant_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/012412/Lobby_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;146.18</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1757035&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1056958-0-2-EXT:147239$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Top Secret hotel</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1757062&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1075029-1-2-EXT%3A4499%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1756434&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=information&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1075029-1-2-EXT%3A4499%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/tsh.png&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Bright hotel In the heart of Salamanca district! - 4* - Madrid&amp;quot; title=&amp;quot;Bright hotel In the heart of Salamanca district! - 4* - Madrid&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address"/>
+			<attribute type="text" name="description">Enjoy your stay at this recently refurnished hotel located in the Barrio de Salamanca one of the most exclusive shopping areas in Madrid. The hotel is also well connected to the main museums and attractions of the city by subway. The nearest metro station is only 300 metres away with a direct connection downtown.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1"/>
+			<attribute type="text" name="photo2"/>
+			<attribute type="text" name="photo3"/>
+			<attribute type="text" name="price">&amp;#163;152.07</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1757062&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1075029-1-2-EXT:4499$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Melia Madrid Princesa - 5* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1757112&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210552-0-2-EXT%3A4401%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-5-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1757112&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210552-0-2-EXT%3A4401%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/024630/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Melia Madrid Princesa - 5* - Madrid&amp;quot; title=&amp;quot;Melia Madrid Princesa - 5* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">Princesa, 27</attribute>
+			<attribute type="text" name="description">Completely renovated in 2008 and located just steps away from Madrid&amp;apos;s main square, Plaza de Espana, this modern hotel offers spectacular views of the Royal Palace and Casa de Campo. It is perfectly situated within walking distance of Gran Via, Plaza Mayor, Puerta del Sol and Madrid&amp;apos;s main museums Prado, Thyssen, Reina Sofia. A metro stop can be found at the entrance of the hotel allowing travel to the airport or Madrid&amp;apos;s main local attractions.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/024630/Spa_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/024630/Health_club_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/024630/Lobby_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;262.97</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1757112&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;210552-0-2-EXT:4401$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Vincci Soma - 4* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1757157&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212400-0-2-EXT%3A4438%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1757157&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212400-0-2-EXT%3A4438%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/034698/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Vincci Soma - 4* - Madrid&amp;quot; title=&amp;quot;Vincci Soma - 4* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">Goya 79</attribute>
+			<attribute type="text" name="description">Vincci SoMa is located in the heart of Madrid, close to major attractions, museums and the most luxury fashion shopping area. The Hotel offers Free Wi-FI connection, gym and parking. Vincci SoMa is the best option to discover Madrid and its principal tourist attractions, just steps away from Goya underground station, connected with the airport.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/212400_212400/148606/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/212400_212400/311750/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/212400_212400/148603/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;160.34</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1757157&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;212400-0-2-EXT:4438$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">De Las Letras H&amp;amp;R - 4* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1757208&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212701-0-2-EXT%3A134573%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1757208&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212701-0-2-EXT%3A134573%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/041215/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;De Las Letras H&amp;amp;amp;R - 4* - Madrid&amp;quot; title=&amp;quot;De Las Letras H&amp;amp;amp;R - 4* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">Gran Via, 11</attribute>
+			<attribute type="text" name="description">De Las Letras H&amp;amp;R is located in the heart of the city. It features an exquisite combination of the building&amp;apos;s original tiles, canopies and stone carvings coupled with the latest in interior design. The rooms are painted in the original tones and decorated with inscriptions of quotes by famous writers. In DL&amp;apos;s Restaurant you can taste an author&amp;apos;s cuisine in harmony with an extensive Japanese menu. DL&amp;apos;s Lounge is a large bar where you can share some tapas or enjoy a variety of cocktails.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/041215/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/041215/Lobby_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/041215/Exterior_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;186.89</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1757208&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;212701-0-2-EXT:134573$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Petit Palace Ducal Chueca - 3* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1757248&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000408254-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1757248&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000408254-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/004417/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Petit Palace Ducal Chueca - 3* - Madrid&amp;quot; title=&amp;quot;Petit Palace Ducal Chueca - 3* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">Hortaleza, 3</attribute>
+			<attribute type="text" name="description">Located in the lively Chueca neighbourhood and close to Gran Via, Petit Palace Ducal hotel is the ideal starting point to discover the main tourist attractions. Facilities include free Wi-Fi, bicycle rent, hydro-massage showers and free safety deposit boxes, with space for a PC. Free Wi-Fi and free personal computer (on request).</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/004417/Other_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/004417/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/004417/Other_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;140.72</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1757248&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000408254-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Asturias Hotel - 2* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1757300&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000394188-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-2-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1757300&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000394188-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/1/140212/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Asturias Hotel  - 2* - Madrid&amp;quot; title=&amp;quot;Asturias Hotel  - 2* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">SEVILLA, 2</attribute>
+			<attribute type="text" name="description">A stay in the Hotel Asturias is truly a pleasure, not only owing to its superb location in the heart of Madrid, only 200 meters from the Puerta del Sol, but also because the most commercial and cultural area of our city is just a pleasant stroll away. Other services our guests can use are the restaurant and conditioned lounge and public parking for 500 cars located opposite the hotel.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/1/140212/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/1/140212/Exterior_F_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/1/140212/Lobby_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;81.09</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1757300&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000394188-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Mercure Madrid Santo Domingo - 4* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1757346&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212435-0-2-EXT%3A4461%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1757346&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212435-0-2-EXT%3A4461%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/1/127020/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Mercure Madrid Santo Domingo - 4* - Madrid&amp;quot; title=&amp;quot;Mercure Madrid Santo Domingo - 4* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">San Bernardo, 1</attribute>
+			<attribute type="text" name="description">Mercure Madrid Santo Domingo Hotel is a unique hotel with 200 rooms, right in the heart of Madrid, offering an excellent location and great services. Among the hotel&amp;apos;s many attractive features you will find themed rooms with murals created by up-and-coming artists, the lobby, crowned with porcelain and gold leaf arches, and the decorated car park. Also available: over 1200 m2 of room space with natural light for meetings or banquets and an outdoor rooftop pool with fantastic views over Madrid.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/1/127020/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/1/127020/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/1/127020/Exterior_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;143.54</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1757346&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;212435-0-2-EXT:4461$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Tryp Cibeles - 4* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1757410&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212264-0-2-EXT%3A4536%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1757410&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212264-0-2-EXT%3A4536%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/2/201799/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Tryp Cibeles - 4* - Madrid&amp;quot; title=&amp;quot;Tryp Cibeles - 4* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">Calle Mesoneros Romanos. 13 Corner of Gran Via</attribute>
+			<attribute type="text" name="description">The Tryp Cibeles hotel is located right in the Gran Via of Madrid nearby the theatres where the most important musicals are played. Close to the Plaza Mayor square, Puerta del Sol, Palacio Real (Royal Palace), Congreso de los Diputados and the famous museums El Prado, Reina Sofia and Thyssen. It occupies one of the many emblematic buildings of the Spanish capital. Free Wi-Fi in premium and fitness rooms is available.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/2/201799/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/2/201799/Exterior_F_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/2/201799/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;141.61</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1757410&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;212264-0-2-EXT:4536$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Regina Hotel - 3* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1757457&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1057726-0-2-EXT%3A147881%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1757457&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1057726-0-2-EXT%3A147881%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/1/113867/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Regina Hotel - 3* - Madrid&amp;quot; title=&amp;quot;Regina Hotel - 3* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">calle Alcal&amp;#225;, 19</attribute>
+			<attribute type="text" name="description">The Regina hotel is located in the heart of the commercial, bank and tourist area of madrid, just 3 minutes from Puerta del Sol and close to the most important monuments and museums of the city. The hotel has 180 rooms totally reformed with modern and comfortable facilities.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Madrid centre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Royal Palace: 500.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Prado Museum: 500.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Puerta del Sol: 100.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Cibeles Square: 200.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Main Square: 300.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Santana Square: 100.0 Metre* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/1/113867/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/1/113867/Lobby_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/1/113867/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;221.64</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1757457&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1057726-0-2-EXT:147881$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">H10 Villa de la Reina - 4* - Madrid</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1757495&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212604-0-2-EXT%3A4393%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1757495&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212604-0-2-EXT%3A4393%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/060077/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;H10 Villa de la Reina - 4* - Madrid&amp;quot; title=&amp;quot;H10 Villa de la Reina - 4* - Madrid&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">Gran Via, 22</attribute>
+			<attribute type="text" name="description">Charming hotel located in Madrid&amp;apos;s famous Gran Via. It occupies a historic building and was last renovated in 2008. Within walking distance from the triangle of Art and the shopping area, it is just the perfect hotel in Madrid to stay whether for business or private purposes.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Plaza Mayor: 1.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Retiro Park: 1.2 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Puerta del Sol: 400.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Palacio Real: 1.5 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Casa de Campo: 3.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Thyssen Museum: 1.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Chueca district: 300.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Prado Museum: 1.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Reina Sof&amp;amp;iacute;a Museum* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/060077/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/060077/Suite_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/madrid/hotel/0/060077/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;149.52</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1757495&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;212604-0-2-EXT:4393$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Top Secret hotel</attribute>
+			<attribute type="text" name="phone">Elegant hotel in Castellana-Serrano area - 4* - Madrid</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=1757560&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=216313-1-2-EXT%3A134925%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319504560562803&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=1756434&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=information&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=216313-1-2-EXT%3A134925%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=madrid&amp;amp;amp;numRooms=1&amp;amp;amp;dest=MAD&amp;amp;amp;_gsid=S72722479-T068V014607428407147262730472124321856&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319504560562803&amp;amp;amp;mappingName=#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/tsh.png&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Exclusive and Unique Hotel with ideal location - 4* - Madrid&amp;quot; title=&amp;quot;Exclusive and Unique Hotel with ideal location - 4* - Madrid&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">300</attribute>
+			<attribute type="text" name="address">Check-in:</attribute>
+			<attribute type="text" name="description">Trendy and Cool. Perfectly allocated in the heart of the historic city center, steps away from the famous Museum del Prado and la Puerta del Sol. Whether you are in the mood to shop, sight-see or just stroll through the lively neighborhood, everything is within walking distance.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1"/>
+			<attribute type="text" name="photo2"/>
+			<attribute type="text" name="photo3"/>
+			<attribute type="text" name="price">&amp;#163;281.16</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;1757560&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;216313-1-2-EXT:134925$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;madrid&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;MAD&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319504560562803&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+	</output-objects>
+</rest-result>

@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rest-result executionTime="277120" statusCode="200" executionId="254d2a4c000003be">
+	<output-objects>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Top Secret hotel</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=777345&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=723086-1-2-EXT%3A136545%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-5-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777276&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=information&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=723086-1-2-EXT%3A136545%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/tsh.png&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;The best deal for a luxury experience in Barcelona - 5* - Barcelona&amp;quot; title=&amp;quot;The best deal for a luxury experience in Barcelona - 5* - Barcelona&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address"/>
+			<attribute type="text" name="description">A unique 5-star property with all modern facilities and exceptional individual service. Within easy access to Barcelona city centre by public transport in less than 30minutes. Guestrooms are luxurious with over-sized comfortable beds, and the majority of rooms have stunning views over the city of Barcelona.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1"/>
+			<attribute type="text" name="photo2"/>
+			<attribute type="text" name="photo3"/>
+			<attribute type="text" name="price">&amp;#163;123.13</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;777345&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;723086-1-2-EXT:136545$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Hotel Europark - 3* - Barcelona</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=777363&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210738-0-2-EXT%3A558%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777363&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210738-0-2-EXT%3A558%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/001444/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Hotel Europark - 3* - Barcelona&amp;quot; title=&amp;quot;Hotel Europark - 3* - Barcelona&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Arag&amp;#243;n 325</attribute>
+			<attribute type="text" name="description">The Europark Hotel is centrally located in the heart of the city surrounded by some of Barcelona&amp;apos;s main attractions. The hotel is within walking distance of The Sagrada Familia, Placa Catalunya, Las Ramblas, and the Gothic quarter with the Cathedral and the Picasso Museum. Rooms feature modern and sophisticated decor combination of classic and contemporary style, black and white lacquered woods, glass, stainless steel and avant-garde furnishings like Verner Panton&amp;apos;s Panton Chair.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Fundacio Tapies: 0.6 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Casa Mil&amp;amp;aacute; (Gaudi): 0.8 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Paseo de Gracia Av.: 0.5 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Las Ramblas: 1.5 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Sagrada Familia of Gaudi: 0.6 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Picasso Museum: 1.5 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Cathedral: 1.5 Kilometre* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/001444/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/001444/Pool_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/001444/Exterior_F_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;170.98</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;777363&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;210738-0-2-EXT:558$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Travelodge L&amp;apos;Hospitalet - 3* - Barcelona</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=777397&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000000662-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777397&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000000662-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/hospitalet/hotel/0/080122/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Travelodge L&amp;apos;Hospitalet - 3* - Barcelona&amp;quot; title=&amp;quot;Travelodge L&amp;apos;Hospitalet - 3* - Barcelona&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Botanica, 25</attribute>
+			<attribute type="text" name="description">This modern, value for money hotel is located in L&amp;apos;Hospitalet, opposite the Fira 2 congress centre and 8 kilometres from central Barcelona. Surrounded by the business district of La Pedrosa, the Travelodge Hospitalet provides simple, functional accommodation for those on a budget. It is located beside the new Gran Via 2 shopping mall and just a short drive from Montjuic Park. Convenient metro services connect the hotel to Barcelona&amp;apos;s central Plaza Catalunya in about 15 minutes.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1057212_656/157034/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1057212_656/156152/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/1057212_656/156161/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;85.10</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;777397&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000000662-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Top Secret hotel</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=777434&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=213555-1-2-EXT%3A133748%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777276&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=information&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=213555-1-2-EXT%3A133748%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/tsh.png&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;In the heart of the Gothic Quarter - 4* - Barcelona&amp;quot; title=&amp;quot;In the heart of the Gothic Quarter - 4* - Barcelona&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address"/>
+			<attribute type="text" name="description">Four-star Hotel renovated in 2006. Situated in the heart of the gothic quarter, surrounded by the cathedral, the Paseo del Borne, the port and the best museums. All the charm and leisure facilities of Barcelona within easy reach.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1"/>
+			<attribute type="text" name="photo2"/>
+			<attribute type="text" name="photo3"/>
+			<attribute type="text" name="price">&amp;#163;127.66</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;777434&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;213555-1-2-EXT:133748$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">B-Hotel - 3* - Barcelona</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=777459&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=217594-0-2-EXT%3A139563%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777459&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=217594-0-2-EXT%3A139563%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/065249/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;B-Hotel - 3* - Barcelona&amp;quot; title=&amp;quot;B-Hotel - 3* - Barcelona&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Gran Via 389-391</attribute>
+			<attribute type="text" name="description">B-Hotel is a trendy boutique hotel in the heart of the city, with easy access to Las Ramblas and the beach. Guests will be able to enjoy spectacular views of Barcelona from the 8th floor swimming pool, decking with a bar and solarium. Guestrooms offer the best materials featuring the last technology and comfort, including free Wifi access. Quality tapas and an extensive variety of Spanish wines are offered at the B-Bar.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/065249/Pool_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/065249/Other_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/065249/Guest_room_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;129.46</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;777459&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;217594-0-2-EXT:139563$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Diagonal Zero Barcelona - 4* - Barcelona</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=777537&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000001441-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777537&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000001441-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/052455/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Diagonal Zero Barcelona - 4* - Barcelona&amp;quot; title=&amp;quot;Diagonal Zero Barcelona - 4* - Barcelona&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Placa de Llevant, s/n</attribute>
+			<attribute type="text" name="description">The Diagonal Zero Hotel is located right in front of the marina, next to the new Forum Marina, the beaches and approx. 100m from the Diagonal Mar Shopping Centre. With a panoramic swimming pool on the 17th floor, spa and fitness centre, you can relax and enjoy your holidays in Barcelona.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Diagonal Mar Shopping Centre: 500.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Olympic Port: 3.29 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Gothic Quartier: 4.58 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Las Ramblas: 5.16 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Park de la Ciutadella: 3.75 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Fira Barcelona - fairground: 7.2 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Forum Beach: 300.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Les Glories Shopping Centre: 2.51 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Picasso Museum: 4.39 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Casa Batllo: 5.07 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Gaudi Museum: 5.73 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    CCIB (Barcelona International Convention Centre): 300.0 Metre* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/052455/Spa_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/052455/Other_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/052455/Health_club_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;142.48</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;777537&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000001441-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Top Secret hotel</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=777591&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1057427-1-2-EXT%3A145073%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777276&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=information&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1057427-1-2-EXT%3A145073%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/tsh.png&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Amazing deal close to the Olympic Port - 4* - Barcelona&amp;quot; title=&amp;quot;Amazing deal close to the Olympic Port - 4* - Barcelona&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Check-in:</attribute>
+			<attribute type="text" name="description">This hotel is situated close to the Olympic Port with easy access to the city centre and the airport. The hotel offers spacious room and free internet access.Don&amp;apos;t miss this deal and make the most of Barcelona.Book Now !!</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1"/>
+			<attribute type="text" name="photo2"/>
+			<attribute type="text" name="photo3"/>
+			<attribute type="text" name="price">&amp;#163;120.15</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;777591&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1057427-1-2-EXT:145073$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Tryp Condal Mar - 4* - Barcelona</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=777635&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000367171-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777635&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000367171-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/211213_211213/323049/100X75.jpeg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Tryp Condal Mar - 4* - Barcelona&amp;quot; title=&amp;quot;Tryp Condal Mar - 4* - Barcelona&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">C/ Cristobal de Moura, 138</attribute>
+			<attribute type="text" name="description">The hotel Tryp Condal Mar was born in an ambitious architect project and integral decoration. Few hotels in Barcelona know how to mix design with confortable and warm places. This hotel has won the avantgarde design award in 2005. The Tryp Condal Mar is a hotel where anyone can rest and feel nice. It&amp;apos;s located in the new 22@ neighbourhood, which is 10 minute walk from the Mar Bella beach, the new congress palace and the shopping center.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/211213_211213/323049/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/211213_211213/318256/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://cdn.lastminute.com/netimages/pee/images/211213_211213/323060/400X288.jpeg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;126.65</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;777635&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000367171-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Barcelona Princess - 4* - Barcelona</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=777690&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000257270-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319505160625018&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777690&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000257270-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319505160625018&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/054496/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Barcelona Princess - 4* - Barcelona&amp;quot; title=&amp;quot;Barcelona Princess - 4* - Barcelona&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Avenida Diagonal 1</attribute>
+			<attribute type="text" name="description">Hotel located just a 10-minute walk from the beach in the modern Forum area, next to CCIB (International Convention Centre) and with very good access to the harbour and the city centre. All guests have free access to the 2 heated outdoor pools, sauna, gym and jacuzzi. The pool on the 23rd floor offers stunning panoramic views of the city. Rooms at the 4-star Barcelona Princess have impressive views out over Barcelona and offer free drinks from the minibar.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Beach: 300.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    New Marine Zoo* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    New sports harbour* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    CCIB - International Convention Centre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Diagonal Mar Mall* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/054496/Exterior_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/054496/Pool_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/054496/Bar_Lounge_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;153.91</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;777690&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000257270-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Hotel Vincci Arena - 4* - Barcelona</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=777739&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000367176-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777739&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000367176-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/059222/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Hotel Vincci Arena - 4* - Barcelona&amp;quot; title=&amp;quot;Hotel Vincci Arena - 4* - Barcelona&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Consell de Cent, 51-53 Bejar</attribute>
+			<attribute type="text" name="description">The Hotel Vincci Arena is a new boutique hotel located near the Plaza de Espana and the commercial district, making it an ideal base from which to explore this cosmopolitan city. Just 4 metro stops from Las Ramblas, the hotel is steps away from the main train and coach station of Barcelona-Sants, making the whole of Barcelona easily accessible. Set in a historical building, this top-class hotel has been stylishly decorated in a modern style and to a very high standard.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/059222/Other_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/059222/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/059222/Restaurant_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;136.78</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;777739&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000367176-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">W Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=777802&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1062150-0-2-EXT%3A151548%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319505160625018&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-5-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777802&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1062150-0-2-EXT%3A151548%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319505160625018&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/1/11cc70c763/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;W Barcelona - 5* - Barcelona&amp;quot; title=&amp;quot;W Barcelona - 5* - Barcelona&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Pla&amp;#231;a Rosa dels Vents, 1 Final de Passeig Joan de Borbo</attribute>
+			<attribute type="text" name="description">Designed by world-renowned architect Ricardo Bofill, W Barcelona is located on the beachfront along the famous Barceloneta boardwalk and features 473 guest rooms, including 67 suites. W Barcelona also offers Spain&amp;apos;s first Bliss spa; restaurant BRAVO by Carles Abellan with unparalleled views of the Barcelona shoreline; Eclipse rooftop bar from London-based nightlife gurus Ignite Group; the signature W living room experience; Wet infinity-edged pool; and Sweat state-of-the-art fitness facility.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Ramblas: 1.9 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Cathedral of Barcelona: 2.1 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Beach* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Port Olimpic: 2.2 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Catalonia square: 2.6 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Sagrada Familia church: 4.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/1/11cc70c763/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/1/11cc70c763/Other_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/1/11cc70c763/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;555.96</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;777802&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1062150-0-2-EXT:151548$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Sagrada Familia - 3* - Barcelona</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=777856&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000367194-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777856&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000367194-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/033676/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Sagrada Familia - 3* - Barcelona&amp;quot; title=&amp;quot;Sagrada Familia - 3* - Barcelona&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Corsega, 541</attribute>
+			<attribute type="text" name="description">The Hotel Sagrada Familia is a comfortable establishment situated in the heart of Barcelona, with 84 rooms and only 3 minutes walking distance from the Sagrada Familia Cathedral, one of the most famous monuments in the world and work of art from the architect Antoni Gaudi&amp;apos;. The hotel is also very close to another famous building declared as a UNESCO heritage site: the Santa Creu i Sant Pau hospital.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/033676/Guest_room_G_6.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/033676/Exterior_F_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/033676/Guest_room_F_7.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;104.87</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;777856&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000367194-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Ayre Hotel Caspe - 4* - Barcelona</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=777940&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000077569-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319505160625018&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777940&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000077569-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319505160625018&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/035966/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Ayre Hotel Caspe - 4* - Barcelona&amp;quot; title=&amp;quot;Ayre Hotel Caspe - 4* - Barcelona&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Caspe, 103</attribute>
+			<attribute type="text" name="description">Ayre Hotel Caspe is located just few minutes walking from Las Ramblas, Sagrada Familia and many other local attractions. Decorated in an exquisite, modern style, offering an elegant atmosphere. Moreover, guests will appreciate the various lounges of the hotel, decorated with minimalist accessories, as well as its many facilities. Every detail has been carefully considered in order to make everyone&amp;apos;s stay unique and unforgettable.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    La Pedrera - Casa Mila: 1.6 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Villa Olimpica: 1.8 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Las Ramblas* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Sagrada Familia* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Cathedral and Gothic Quarter* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Beach* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Catalunya Square* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Born Quarter* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Ciutadella Parc* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Casa Batllo* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/035966/Exterior_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/035966/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/035966/Bar_Lounge_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;140.90</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;777940&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000077569-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Gran Hotel Torre Catalunya - 4* - Barcelona</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=777989&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210858-0-2-EXT%3A639%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777989&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210858-0-2-EXT%3A639%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/009780/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Gran Hotel Torre Catalunya - 4* - Barcelona&amp;quot; title=&amp;quot;Gran Hotel Torre Catalunya - 4* - Barcelona&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Avenida Roma, 2- 4</attribute>
+			<attribute type="text" name="description">Located in Barcelona city center,next to the Trade Fair Centre and within easy access to the Gothic Quarter, Las Ramblas and the Sagrada Familia the stunning brand new deluxe Gran Hotel Torre Catalunya offers a perfect location. Housing a cosmopolitan design which will fascinate you and wou&amp;apos;ll be amazed by the spectacular views from the restaurant situated on the 23rd floor.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Shopping* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Modernism Route* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Gothic neighbourhood* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Beaches* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Las Ramblas* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/009780/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/009780/Restaurant_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/009780/Guest_room_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;155.04</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;777989&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;210858-0-2-EXT:639$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">ME by Melia Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=778086&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000367187-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-5-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=778086&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000367187-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/1/101471/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;ME by Melia Barcelona       - 5* - Barcelona&amp;quot; title=&amp;quot;ME by Melia Barcelona       - 5* - Barcelona&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Pere IV, 272 - 286</attribute>
+			<attribute type="text" name="description">ME by Melia Barcelona is located in the the 4th tallest building in the city and offers breathtaking views of Barcelona, overlooking Sagrada Familia and the Mediterranean Sea. The hotel is a new interpretation to contemporary design, international cuisine and the urban experience, and it is located in the most emerging district and very well connected with the city centre and main cultural and shopping areas of the city. This LifeStyle hotel provides free Wi-Fi, swimming pool and Spa.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Sagrada Familia: 2.5 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Agbar Tower designed by Jean Nouvel: 1.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Shopping Centre Glories: 1.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Olympic Port: 3.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Barcelona beaches: 1.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Diagonal Mar Area &amp;amp;amp; Shopping Centre: 1.2 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Barcelona International Convention Centre - BICC: 1.6 Kilometre* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/1/101471/Exterior_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/1/101471/Exterior_D_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/1/101471/Other_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;272.64</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;778086&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000367187-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Expo Hotel Barcelona - 4* - Barcelona</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=778157&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210871-0-2-EXT%3A543%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=778157&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=210871-0-2-EXT%3A543%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/001251/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Expo Hotel Barcelona - 4* - Barcelona&amp;quot; title=&amp;quot;Expo Hotel Barcelona - 4* - Barcelona&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Calle Mallorca, 1 - 23</attribute>
+			<attribute type="text" name="description">Situated in one of the most important business centres of Barcelona, the modern Expo Hotel Barcelona is noted for its warm welcome, tranquillity and high standards of accommodation. Hotel&amp;apos;s rooms are designed and equipped to offer high comfort and functionality to all guests.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Port Olimpic* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Sagrada Familia* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Picasso Museum* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Port Vell* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Miro Fundation* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Plaza Catalunya* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Parc Guell* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Montjuic Magic Fountains: 500.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Plaza Espanya: 500.0 Metre* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/001251/Recreation_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/001251/Lobby_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/001251/Lobby_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;129.18</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;778157&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;210871-0-2-EXT:543$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Hotel Confortel Almirante - 4* - Barcelona</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=778208&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=211889-0-2-EXT%3A133748%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=778208&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=211889-0-2-EXT%3A133748%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/020191/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Hotel Confortel Almirante - 4* - Barcelona&amp;quot; title=&amp;quot;Hotel Confortel Almirante - 4* - Barcelona&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">via laietana, 42 (formerly Guitart Almirante)</attribute>
+			<attribute type="text" name="description">This elegant hotel has an enviable position in the heart of the gothic quarter, surrounded by the cathedral, the Paseo del Borne, the port and the best museums. The Hotel Confortel Almirante is surrounded by restaurants, bars and shops and many of Barcelona&amp;apos;s other attractions are easily reached on foot. As expected of a hotel of this calibre, guestrooms are elegantly decorated with marble floors and natural wooden furnishings. A real treat in the heart of Barcelona.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Modernist Route* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Casa Batllo: 2.5 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Picasso Museum: 1.6 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Las Ramblas: 2.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Harbour, La Barceloneta: 2.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Olympic village: 2.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Liceo Theatre: 1.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Gothic District: 1.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Sagrada Familia: 3.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Agbar Tower: 2.9 Kilometre* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/020191/Lobby_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/020191/Lobby_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/020191/Health_club_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;159.01</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;778208&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;211889-0-2-EXT:133748$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Republica Aparthotel - 4* - Barcelona</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=778270&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000090186-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=778270&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000090186-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/c/cd3f7bc004/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Republica Aparthotel - 4* - Barcelona&amp;quot; title=&amp;quot;Republica Aparthotel - 4* - Barcelona&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Pujades, 120</attribute>
+			<attribute type="text" name="description">La Republica offers spacious and bright designer lofts for up to four people, which truly stand out for their combination of brick walls and large windows of steel, cement and glass. The decoration of the lofts is based on the &amp;apos;New York&amp;apos; style. This property is ideal for long business or pleasure stays. With a private garden, a terrace with views over the beautiful city of Barcelona, solarium and swimming pool, enjoy your holidays.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/c/cd3f7bc004/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/c/cd3f7bc004/Other_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/c/cd3f7bc004/Other_E_2.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;181.66</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;778270&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000090186-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Silken Ramblas - 4* - Barcelona</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=778312&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000333175-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319505160625018&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=778312&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000333175-0-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319505160625018&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/034095/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Silken Ramblas - 4* - Barcelona&amp;quot; title=&amp;quot;Silken Ramblas - 4* - Barcelona&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Pintor Fortuny 13</attribute>
+			<attribute type="text" name="description">Located right in the heart of Barcelona just 50m from Las Ramblas. This is the ideal setting if you want to explore Barcelona at its most authentic . Hotel Silken Ramblas offers to its guests a rooftop pool with some exceptional views over the city, sauna and free Wi-Fi connection. The 105 rooms are spacious, soundproofed and equipped with flat screen satellite TV, minibar, air-conditioning and central heating.</attribute>
+			<attribute type="text" name="localAttractions">&amp;lt;ul&amp;gt;
+  &amp;lt;li&amp;gt;
+    Ramblas: 10.0 Metre* 
+  &amp;lt;/li&amp;gt;
+  &amp;lt;li&amp;gt;
+    Cathedral: 1.0 Kilometre* 
+  &amp;lt;/li&amp;gt;
+
+&amp;lt;/ul&amp;gt;</attribute>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/034095/Pool_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/034095/Exterior_F_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/034095/Lobby_G_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;208.44</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;778312&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000333175-0-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Top Secret hotel</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=778352&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1056755-1-2-EXT%3A6418%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777276&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=information&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1056755-1-2-EXT%3A6418%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/tsh.png&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Comfortable Hotel close to Barcelona - 4* - Barcelona&amp;quot; title=&amp;quot;Comfortable Hotel close to Barcelona - 4* - Barcelona&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address"/>
+			<attribute type="text" name="description">A comfortable four star hotel situated close to the city centre. A quiet accommodation with luxury facilities like a gym, Turkish bath, and excellent service. Free Wi-Fi is available. The hotel has a friendly bar where guests can enjoy their favorite drinks.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1"/>
+			<attribute type="text" name="photo2"/>
+			<attribute type="text" name="photo3"/>
+			<attribute type="text" name="price">&amp;#163;81.76</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;778352&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1056755-1-2-EXT:6418$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Hotel NH Duc de la Victoria - 3* - Barcelona</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=778394&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212535-0-2-EXT%3A134403%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-3-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=778394&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=photos&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=212535-0-2-EXT%3A134403%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/054316/Exterior_H_1.jpg&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Hotel NH Duc de la Victoria - 3* - Barcelona&amp;quot; title=&amp;quot;Hotel NH Duc de la Victoria - 3* - Barcelona&amp;quot;&amp;gt; &amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Calle de Duc, 15</attribute>
+			<attribute type="text" name="description">The Hotel NH Duc de la Victoria is located just 100m away from Las Ramblas in a quiet pedestrian street close to the Cathedral, in one of the oldest historical districts within the city, the Gothic district. The Hotel is only a few minutes away from the railway station and Catalunya Square. Its decoration is cosy and functional. In addition, the hotel offers good quality services to make sure that the clients enjoy their stay, either for business or pleasure.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1">&amp;lt;img onload=&amp;quot;imageData.image = this;
+if (!isTransitioning &amp;amp;amp;&amp;amp;amp; imageData.hash == gallery.data[gallery.currentImage.index].hash) {
+    gallery.buildImage(imageData, isSync);
+}&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/054316/Other_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo2">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/054316/Restaurant_D_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="photo3">&amp;lt;img onload=&amp;quot;imageData.image = this;
+gallery.preloadNext(startIndex, currentIndex);&amp;quot; alt=&amp;quot;&amp;quot; src=&amp;quot;http://m.travelocity.com//images/barcelona/hotel/0/054316/Exterior_E_1.jpg&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="price">&amp;#163;107.47</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;778394&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;212535-0-2-EXT:134403$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Top Secret hotel</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=778447&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1055014-1-2-EXT%3A145428%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777276&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=information&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1055014-1-2-EXT%3A145428%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/tsh.png&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Modern Hotel Close to the Beach  - 4* - Barcelona&amp;quot; title=&amp;quot;Modern Hotel Close to the Beach  - 4* - Barcelona&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address"/>
+			<attribute type="text" name="description">This hotel is a great destination if you are planning to relax during your holidays. The hotel provides high standard facilities and services to make your stay an unforgettable one, all this within walking distance from the beach. An ideal hotel for the business or leisure traveller.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1"/>
+			<attribute type="text" name="photo2"/>
+			<attribute type="text" name="photo3"/>
+			<attribute type="text" name="price">&amp;#163;169.54</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;778447&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1055014-1-2-EXT:145428$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Top Secret hotel</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=778481&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000367208-1-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-5-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777276&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=information&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000367208-1-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/tsh.png&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Hip and Luxury: Unique Experience - 5* - Barcelona&amp;quot; title=&amp;quot;Hip and Luxury: Unique Experience - 5* - Barcelona&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address"/>
+			<attribute type="text" name="description">The enchanting view from the Restaurant and Lounge, pool and sundeck and the full-body-holiday found only at the Spa. An experience beyond mere accommodation.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1"/>
+			<attribute type="text" name="photo2"/>
+			<attribute type="text" name="photo3"/>
+			<attribute type="text" name="price">&amp;#163;204.48</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;778481&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000367208-1-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Top Secret hotel</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=778514&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1076340-1-2-EXT%3A158794%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777276&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=information&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1076340-1-2-EXT%3A158794%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/tsh.png&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Perfect deal with rooftop pool next to the beach - 4* - Barcelona&amp;quot; title=&amp;quot;Perfect deal with rooftop pool next to the beach - 4* - Barcelona&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Check-in:</attribute>
+			<attribute type="text" name="description">Modern hotel set next to the beach and a few minutes from the city centre. The property offers a brand new rooftop swimming pool, spacious room and free Wi-Fi. Don&amp;apos;t miss it, you&amp;apos;ll love it.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1"/>
+			<attribute type="text" name="photo2"/>
+			<attribute type="text" name="photo3"/>
+			<attribute type="text" name="price">&amp;#163;114.28</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;778514&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1076340-1-2-EXT:158794$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+		<object name="hotel_output_data">
+			<attribute type="text" name="name">Top Secret hotel</attribute>
+			<attribute type="text" name="phone">The best deal for a luxury experience in Barcelona - 5* - Barcelona</attribute>
+			<attribute type="text" name="rating">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/popup/starRatingDefinitions?roomOptions=true&amp;amp;amp;pTxId=778545&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000340238-1-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;mappingName=&amp;amp;amp;hotelRequestId=319505160625018&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/stars-4-0.gif&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="thumbnail">&amp;lt;a href=&amp;quot;http://globaltrips.lastminute.com/trips/productDetailsInternal?roomOptions=true&amp;amp;amp;pTxId=777276&amp;amp;amp;checkInDate=2011-12-11&amp;amp;amp;checkOutDate=2011-12-13&amp;amp;amp;guestCounts=1&amp;amp;amp;tabId=information&amp;amp;amp;guestCodes=ADULT&amp;amp;amp;propertyIds=1000340238-1-5-GH%3A1%24v1v%24&amp;amp;amp;configId=S72722479&amp;amp;amp;city=barcelona&amp;amp;amp;numRooms=1&amp;amp;amp;dest=BCN&amp;amp;amp;_gsid=S72722479-T080V095801470607638469630520101391835&amp;amp;amp;path=hotels&amp;amp;amp;hotelRequestId=319505160625018&amp;amp;amp;mappingName=#&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://cdn2.travelpn.com.edgesuite.net/trips/11.05.1/brand/lastminute/img/tsh.png&amp;quot; class=&amp;quot;hotel-thumbnail&amp;quot; alt=&amp;quot;Luxurious Hotel with spectacular rooftop pool - 4* - Barcelona&amp;quot; title=&amp;quot;Luxurious Hotel with spectacular rooftop pool - 4* - Barcelona&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;</attribute>
+			<attribute type="text" name="numHotelsCity">253</attribute>
+			<attribute type="text" name="address">Check-in:</attribute>
+			<attribute type="text" name="description">Enjoy the luxury in this magnificent hotel with very comfortable rooms and outstanding design. Located near the sea and about 10 minutes from the city centre by public transport. Great setting with spectacular views of both the city and the Mediterranean sea, ideal for relaxing after a busy day.</attribute>
+			<attribute type="text" name="localAttractions"/>
+			<attribute type="text" name="photo1"/>
+			<attribute type="text" name="photo2"/>
+			<attribute type="text" name="photo3"/>
+			<attribute type="text" name="price">&amp;#163;159.58</attribute>
+			<attribute type="text" name="pTxId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pTxId&amp;quot; value=&amp;quot;778545&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkInDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkInDate&amp;quot; value=&amp;quot;2011-12-11&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="checkOutDate">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;checkOutDate&amp;quot; value=&amp;quot;2011-12-13&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCounts">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCounts&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="guestCodes">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;guestCodes&amp;quot; value=&amp;quot;ADULT&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="propertyIds">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;propertyIds&amp;quot; value=&amp;quot;1000340238-1-5-GH:1$v1v$&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="city">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;city&amp;quot; value=&amp;quot;barcelona&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="configId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;configId&amp;quot; value=&amp;quot;S72722479&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="numRooms">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;numRooms&amp;quot; value=&amp;quot;1&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="dest">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;dest&amp;quot; value=&amp;quot;BCN&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="mappingName">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;mappingName&amp;quot; value=&amp;quot;&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="hotelRequestId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;hotelRequestId&amp;quot; value=&amp;quot;319505160625018&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="pageId">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;pageId&amp;quot; value=&amp;quot;hotelDetails&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="action">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;action&amp;quot; value=&amp;quot;index&amp;quot;&amp;gt;</attribute>
+			<attribute type="text" name="controller">&amp;lt;input type=&amp;quot;hidden&amp;quot; name=&amp;quot;controller&amp;quot; value=&amp;quot;pcp&amp;quot;&amp;gt;</attribute>
+		</object>
+	</output-objects>
+</rest-result>
